@@ -11,7 +11,7 @@ comments: false
 > **Objectives:**
 * **Normalize struggle** inherent in developing effective communication skills
 * Promote a **growth-mindset**: this is a skill that is **learned**, not inborn.
-* Debunking **misconceptions** about what constitute "good" communication practices. 
+* Debunk **misconceptions** about what constitute "good" communication practices. 
 * Teach students how to **break-down** the verbal communication into a **step-by-step** process -- see guide on [how to communicate about weekly progress with your collaborators](https://yanivyacoby.github.io/harvard-cs290/materials/communication-in-collaborative-environments).
 {: .prompt-info }
 
