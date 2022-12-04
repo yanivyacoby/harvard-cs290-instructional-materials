@@ -10,11 +10,10 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
+  about: About  
   home: Home
-  categories: Categories
+  archives: Archives  
   tags: Tags
-  archives: Archives
-  about: About
 
 # the text displayed in the search bar & search results
 search:
@@ -23,7 +22,7 @@ search:
   no_results: Oops! No results found.
 
 panel:
-  lastmod: Recently Updated
+  # lastmod: Recently Updated
   trending_tags: Trending Tags
   toc: Contents
 
@@ -53,18 +52,18 @@ notification:
 
 post:
   written_by: By
-  posted: Posted
-  updated: Updated
-  words: words
-  pageview_measure: views
-  read_time:
-    unit: min
-    prompt: read
-  relate_posts: Further Reading
+  posted: Date
+  # updated: Updated
+  # words: words
+  # pageview_measure: views
+  # read_time:
+  #   unit: min
+  #   prompt: read
+  # relate_posts: Further Reading
   share: Share
   button:
-    next: Newer
-    previous: Older
+    next: Next
+    previous: Previous
     copy_code:
       succeed: Copied!
     share_link:
