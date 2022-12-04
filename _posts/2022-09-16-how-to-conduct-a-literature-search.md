@@ -41,6 +41,7 @@ comments: false
 5. [5min] Presenting a guide to conduct a literature search
 6. [20min] Small-group activity #2: given a research prompt and a list of papers: which are relevant? and in what ways are they relevant (i.e. which category do they belong to)? (see example below)
 7. [15min] Regroup: go over list of papers and discuss
+8. [5min] Go over paper tracking software (e.g. Zotero, the google scholar web extension), show example document keeping track of related work
 8. [5min] In-class survey
   * Describe a new strategy you learned (if any) for doing a literature search for each of the following components: finding papers, reading papers, and tracking papers.
   * Is there anything else you took away? If so, what is it?
@@ -58,6 +59,22 @@ Given the research problem below (purposefully selected to be in a CS-adjacent f
 
 **Goal:** To develop statistical methodology capable of both using existing data and effectively leveraging data from a more inclusive collection process to generalize well to populations identifying as of non-European ancestry.
 
+**Relevant:** For each of the paper below, in what way it is (or is not) relevant to the problem statement? For example,
+* The paper is **irrelevant**
+* The paper **motivates** the problem
+* The paper solves the **same** problem
+* The paper solves a **similar** problem
+* The paper solves a **subproblem**
+
 **List of papers:**
-* TODO.
+1. [Non-parametric genetic prediction of complex traits with latent Dirichlet process regression models](https://www.nature.com/articles/s41467-017-00470-2.pdf)
+2. [Current clinical use of polygenic scores will risk exacerbating health disparities Understanding the population structure correction regression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6563838/pdf/nihms-1030266.pdf)
+3. [Understanding the population structure correction regression](https://arxiv.org/abs/2108.05655)
+4. [Leveraging fine-mapping and non-European training data to improve trans-ethnic polygenic risk scores](https://www.medrxiv.org/content/10.1101/2021.01.19.21249483v1.full.pdf)
+5. [Genes mirror geography within Europe](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2735096/pdf/nihms132060.pdf)
+6. [Improving Polygenic Prediction in Ancestrally Diverse Populations](https://www.medrxiv.org/content/10.1101/2020.12.27.20248738v1.full)
+7. [Getting Genetic Ancestry Right for Science and Society](https://arxiv.org/pdf/2110.05987.pdf)
+8. [Multi-group Gaussian Processes](https://arxiv.org/abs/2110.08411)
+9. [Human Demographic History Impacts Genetic Risk Prediction across Diverse Populations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5384097/pdf/main.pdf)
+10. [Toward a fine-scale population health monitoring system](https://www.cell.com/cell/fulltext/S0092-8674(21)00365-2?_returnURL=https:%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867421003652%3Fshowall%3Dtrue)
 
