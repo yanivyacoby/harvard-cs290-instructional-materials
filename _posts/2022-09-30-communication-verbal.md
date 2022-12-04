@@ -2,7 +2,6 @@
 title: Communication in Collaborative Environments (Verbal)
 author: yaniv_yacoby
 date: 2022-09-30 09:00:00 +0800
-categories: [Communication in Collaborative Environments]
 tags: [normalizing-struggle, skill-building]
 math: false
 mermaid: false

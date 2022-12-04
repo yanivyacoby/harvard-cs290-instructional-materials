@@ -2,7 +2,6 @@
 title: How to conduct a literature search
 author: [eura_shin, yaniv_yacoby]
 date: 2022-09-16 09:00:00 +0800
-categories: [How to conduct a literature search]
 tags: [normalizing-struggle, skill-building, dei]
 math: false
 mermaid: false

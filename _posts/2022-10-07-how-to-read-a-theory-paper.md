@@ -2,7 +2,6 @@
 title: How to read a theory paper
 author: yaniv_yacoby
 date: 2022-10-07 09:00:00 +0800
-categories: [How to read a theory research paper]
 tags: [normalizing-struggle, skill-building]
 math: false
 mermaid: false

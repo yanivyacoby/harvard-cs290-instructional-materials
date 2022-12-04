@@ -2,7 +2,6 @@
 title: Panel on Fellowships
 author: yaniv_yacoby
 date: 2022-09-23 09:00:00 +0800
-categories: [Fellowships]
 tags: [skill-building, professional-development]
 math: false
 mermaid: false

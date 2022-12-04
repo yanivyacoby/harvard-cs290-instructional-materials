@@ -2,7 +2,6 @@
 title: Welcome! And what to expect from this seminar?
 author: yaniv_yacoby
 date: 2022-09-02 09:00:00 +0800
-categories: [Introduction]
 tags: [normalizing-struggle]
 math: false
 mermaid: false

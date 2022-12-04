@@ -2,7 +2,6 @@
 title: How to skim a research paper?
 author: yaniv_yacoby
 date: 2022-09-09 09:00:00 +0800
-categories: [How to skim a research paper]
 tags: [normalizing-struggle, skill-building]
 math: false
 mermaid: false
