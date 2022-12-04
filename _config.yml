@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: '/harvard-cs290-instructional-materials'
+baseurl: '/harvard-cs290-teaching-materials'
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -19,12 +19,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Instructional Material for Harvard's CS290                          # the main title
+title: Harvard's CS290: Teaching Materials                          # the main title
 
 tagline: Seminar on Effective Research Practices & Academic Culture   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Instructional material for Harvard's CS290, the seminar on effective research practices and academic culture
+  Teaching materials for Harvard's CS290, the seminar on effective research practices and academic culture
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://yanivyacoby.github.io'
