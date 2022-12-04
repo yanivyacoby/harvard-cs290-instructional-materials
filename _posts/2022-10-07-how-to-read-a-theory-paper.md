@@ -1,6 +1,6 @@
 ---
 title: How to read a theory paper
-author: yaniv_yacoby
+author: yaniv_yacoby, john_girash, david_parkes
 date: 2022-10-07 09:00:00 +0800
 tags: [normalizing-struggle, skill-building]
 math: false
