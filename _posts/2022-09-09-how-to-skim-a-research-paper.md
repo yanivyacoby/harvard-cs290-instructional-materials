@@ -1,6 +1,6 @@
 ---
 title: How to skim a research paper?
-author: yaniv_yacoby, john_girash, david_parkes
+author: [yaniv_yacoby, eura_shin, john_girash, david_parkes]
 date: 2022-09-09 09:00:00 +0800
 tags: [normalizing-struggle, skill-building]
 math: false

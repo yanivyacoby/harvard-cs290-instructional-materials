@@ -1,6 +1,6 @@
 ---
 title: Panel on Fellowships
-author: john_girash, yaniv_yacoby
+author: [john_girash, yaniv_yacoby, eura_shin]
 date: 2022-09-23 09:00:00 +0800
 tags: [skill-building, professional-development]
 math: false
