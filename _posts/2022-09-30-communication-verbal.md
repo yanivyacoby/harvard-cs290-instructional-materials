@@ -17,7 +17,7 @@ comments: false
 
 
 ## Pre-class work
-* In this class we will discuss and practice how to update your advisor / collaborators on recent progress. Please come to class with a topic in mind -- a project (e.g. current or past research project, a hobby, etc.) that you have worked on but haven’t yet completed. The topic should be reasonably technical (your fellow classmates should only have a partial prior understanding of the topic). Describe it.
+* In this class we will discuss and practice how to update your advisor / collaborators on recent progress. Please come to class with a topic in mind -- a project (e.g. current or past research project, a hobby, etc.) that you have worked on but haven't yet completed. The topic should be reasonably technical (your fellow classmates should only have a partial prior understanding of the topic). Describe it.
 * What do you find difficult about updating your advisor(s) / collaborator(s) about recent research progress you made?
 * What is the general format/strategy you use when updating your advisor(s)/collaborator(s) about recent research progress you made?
 

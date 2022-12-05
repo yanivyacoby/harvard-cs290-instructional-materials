@@ -26,7 +26,7 @@ comments: false
   * What is Beeler's four stage framework?
   * According to this model, what stage are you in?
   * Do you find this model useful in thinking about your own current/future Ph.D. experience? Why or why not?
-3. Submit at least one question for this week’s panel on debugging unhealthy self-expectations. 
+3. Submit at least one question for this week's panel on debugging unhealthy self-expectations. 
 
 
 ## In class \[[slides](https://docs.google.com/presentation/d/1wBfjEHBV3rQMMJvtM4iwnaJoo8Jmmqc1/edit?usp=sharing&ouid=113921352520656002922&rtpof=true&sd=true)\]

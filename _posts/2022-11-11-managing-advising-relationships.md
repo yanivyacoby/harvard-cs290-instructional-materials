@@ -18,9 +18,9 @@ comments: false
 
 ## Pre-class work
 1. Read pages 1-10 of [Dealing with Social Isolation to Minimize Doctoral Attrition – A Four Stage Framework](http://www.ijds.org/Volume2/IJDSv2p033-049Ali28.pdf). Answer:
-  * How can social isolation in PhD programs stifle movement from one stage of development to another in Beeler’s model?
+  * How can social isolation in PhD programs stifle movement from one stage of development to another in Beeler's model?
   * Is there anything else you took away from this paper? 
-2. Please ask a question for the panel OR describe a scenario between advisor(s) and advisee(s) that you’d like to be discussed on the panel. For example, "A scenario in which the advisee wants to ask for two weeks off after a deadline." This can be hypothetical -- if asked to the panel, we will keep your response anonymous (or, of course, you're welcome to ask it yourself)! 
+2. Please ask a question for the panel OR describe a scenario between advisor(s) and advisee(s) that you'd like to be discussed on the panel. For example, "A scenario in which the advisee wants to ask for two weeks off after a deadline." This can be hypothetical -- if asked to the panel, we will keep your response anonymous (or, of course, you're welcome to ask it yourself)! 
 
 
 ## In class \[[slides](https://docs.google.com/presentation/d/1NZTPWdXZvdKvstrT0ZnjvlLDE4a-8XLXZKm_-8ttUig/edit#slide=id.p)\]
