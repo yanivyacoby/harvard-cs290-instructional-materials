@@ -1,5 +1,5 @@
 ---
-title: Communication in Collaborative Environments (Verbal)
+title: Communication in collaborative environments (verbal)
 author: [yaniv_yacoby, eura_shin, john_girash, david_parkes]
 date: 2022-09-30 09:00:00 +0800
 tags: [normalizing-struggle, skill-building]

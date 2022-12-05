@@ -1,5 +1,5 @@
 ---
-title: Student-only Panel on Debugging Unhealthy Self-expectations
+title: Student-only panel on debugging unhealthy self-expectations
 author: [yaniv_yacoby, eura_shin]
 date: 2022-10-28 09:00:00 +0800
 tags: [normalizing-struggle]

@@ -1,5 +1,5 @@
 ---
-title: Faculty Panel about Expectations of Students and Experiences as Students
+title: Faculty panel about expectations of students, experiences as students (and as faculty)
 author: [yaniv_yacoby, eura_shin, john_girash]
 date: 2022-10-28 09:00:00 +0800
 tags: [normalizing-struggle]

@@ -1,6 +1,6 @@
 ---
-title: Moral and Professional Responsibility in Computing
-author: [yaniv_yacoby, eura_shin]
+title: Moral and professional responsibility in computing
+author: trystan_goetze
 date: 2022-10-21 09:00:00 +0800
 tags: [research-in-context]
 math: false
