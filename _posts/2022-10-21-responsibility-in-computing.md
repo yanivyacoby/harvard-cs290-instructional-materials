@@ -1,7 +1,7 @@
 ---
 title: Moral and professional responsibility in computing
 author: trystan_goetze
-date: 2022-10-21 09:00:00 +0800
+date: 2022-10-21 09:00:00 -0400
 tags: [research-in-context]
 math: false
 mermaid: false

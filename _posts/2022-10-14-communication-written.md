@@ -1,7 +1,7 @@
 ---
 title: Communication in collaborative environments (written)
 author: [yaniv_yacoby, eura_shin]
-date: 2022-10-14 09:00:00 +0800
+date: 2022-10-14 09:00:00 -0400
 tags: [normalizing-struggle, skill-building]
 math: false
 mermaid: false

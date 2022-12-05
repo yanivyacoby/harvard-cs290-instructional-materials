@@ -1,7 +1,7 @@
 ---
 title: How to read a theory paper
 author: [salil_vadhan, yaniv_yacoby]
-date: 2022-10-07 09:00:00 +0800
+date: 2022-10-07 09:00:00 -0400
 tags: [normalizing-struggle, skill-building]
 math: false
 mermaid: false
