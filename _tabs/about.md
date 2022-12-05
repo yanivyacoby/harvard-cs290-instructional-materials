@@ -13,22 +13,24 @@ This seminar is **mandatory** for all entering Computer Science (CS) doctoral st
 Although the seminar was designed for CS doctoral students in mind, we believe these materials can be useful to the **broader community**.
 If you do use our materials, please do reference our [student-facing course website](https://yanivyacoby.github.io/harvard-cs290) / these teaching materials, as well as [our paper](https://arxiv.org/abs/2208.12650):
 ```
-@inproceedings\{Yacoby2023,
-  author = \{\{Yacoby\}, Yaniv and \{Girash\}, John and \{Parkes\}, David C.\},
-  title = "\{Empowering First-Year Computer Science Ph.D. Students to Create a Culture that Values Community and Mental Health\}",
-  year = \{2023\},
-  publisher = \{Association for Computing Machinery\},
-  url = \{https://doi.org/10.1145/3478431.3499370\},
-  booktitle = \{Proceedings of the 54rd ACM Technical Symposium on Computer Science Education V. 1\},
-  keywords = \{mental health in doctoral programs, social isolation in doctoral programs, self-regulation, self-efficacy, imposter phenomenon\},
-  location = \{Toronto, ON, Canada\},
-  series = \{SIGCSE 2023\}
-\}
+{% raw %}
+@inproceedings{Yacoby2023,
+  author = {{Yacoby}, Yaniv and {Girash}, John and {Parkes}, David C.},
+  title = "{Empowering First-Year Computer Science Ph.D. Students to Create a Culture that Values Community and Mental Health}",
+  year = {2023},
+  publisher = {Association for Computing Machinery},
+  url = {https://doi.org/10.1145/3478431.3499370},
+  booktitle = {Proceedings of the 54rd ACM Technical Symposium on Computer Science Education V. 1},
+  keywords = {mental health in doctoral programs, social isolation in doctoral programs, self-regulation, self-efficacy, imposter phenomenon},
+  location = {Toronto, ON, Canada},
+  series = {SIGCSE 2023}
+}
+{% endraw %}
 ```
 Feel free to reach out to us if you have any questions, suggestions, or to let us know how you used these materials! We'd love to know.
 
 
-**Helpful Links**
+**Helpful Links:**
 * The student-facing course [website](https://yanivyacoby.github.io/harvard-cs290).
 * Our paper about the course describing our philosophy, learning objective and evaluation of the course: [Empowering First-Year Computer Science Ph.D. Students to Create a Culture that Values Community and Mental Health](https://arxiv.org/abs/2208.12650).
 
