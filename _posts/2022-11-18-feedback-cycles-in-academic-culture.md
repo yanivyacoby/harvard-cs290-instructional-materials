@@ -43,7 +43,8 @@ comments: false
 
 **Instructions:**
 Go to the materials page of the course website. Read your assigned section. You may find it helpful to quickly skim through abstracts / titles of the listed papers.
-Create a positive feedback cycle following the below template. 
+Create a positive feedback cycle following the below template.
+Please pay particular attention to the way the cycle reinforces societal misconceptions.
 
 <table>
 <thead>
