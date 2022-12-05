@@ -71,7 +71,7 @@ Please pay particular attention to the way the cycle reinforces societal misconc
   <tr>
     <td>Step 3: Effect of misconception on us externally</td>
     <td>Failure to meet expectations </td>
-    <td>"I'm working really hard but not making meaningful progress on research or acquiring new skills.”</td>
+    <td>"I'm working really hard but not making meaningful progress on research or acquiring new skills."</td>
     <td>TODO</td>
   </tr>
   <tr>
