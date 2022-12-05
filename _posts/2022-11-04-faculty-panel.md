@@ -9,7 +9,9 @@ comments: false
 ---
 
 > **Objectives:**
-* TODO
+* **Clarify** how advisors think of Ph.D. student development -- what do they **value** in the early years of the Ph.D?
+* **Humanize** the advisor's perspective through discussion of imposter phenomenon of faculty
+* Make **explicit** the non-linear "failure"-filled path faculty took to success. 
 {: .prompt-info }
 
 
