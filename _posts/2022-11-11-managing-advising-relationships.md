@@ -1,7 +1,7 @@
 ---
 title: Student-only panel on managing advising relationships
 author: [yaniv_yacoby, eura_shin]
-date: 2022-11-11 09:00:00 -0400
+date: 2022-11-11 09:00:00 -0500
 tags: [normalizing-struggle, skill-building]
 math: false
 mermaid: false

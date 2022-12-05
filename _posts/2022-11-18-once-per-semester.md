@@ -1,7 +1,7 @@
 ---
 title: Deadline for the "once-per-semester" assignments
 author: [yaniv_yacoby, eura_shin]
-date: 2022-11-18 09:00:00 -0400
+date: 2022-11-18 09:00:00 -0500
 tags: [academic-culture]
 math: false
 mermaid: false
