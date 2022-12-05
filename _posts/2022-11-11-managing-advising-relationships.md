@@ -9,7 +9,6 @@ comments: false
 ---
 
 > **Objectives:**
-
 * Demonstrate to the students (by example) that it is **normal** to experience challenges in the PhD, and in particular in managing advising relationships, and that it's a good idea to talk about these challenges with peers, more experienced Ph.D. students, and seek other resources on campus.
 * Promote **good communication** practices in managing advising relationships:
   * Be **proactive about soliciting feedback** and learning about the advisor's expectations.
