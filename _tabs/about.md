@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 > **Note:** This website currently only contains the materials for the fall 2022 offering of the seminar. We will update it with the spring materials in the summer of 2023.
