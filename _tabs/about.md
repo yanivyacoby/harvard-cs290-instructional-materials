@@ -31,7 +31,7 @@ Feel free to reach out to us if you have any questions, suggestions, or to let u
 
 
 **Helpful Links:**
-* The student-facing [course website](https://yanivyacoby.github.io/harvard-cs290) (the 2021-2022 course website can be found [here](https://yanivyacoby.github.io/harvard-cs290-2021-2022/))
+* The student-facing 2022-2023 [course website](https://yanivyacoby.github.io/harvard-cs290) (the 2021-2022 course website can be found [here](https://yanivyacoby.github.io/harvard-cs290-2021-2022/))
 * Our paper about the course describing our philosophy, learning objective and evaluation of the course: [Empowering First-Year Computer Science Ph.D. Students to Create a Culture that Values Community and Mental Health](https://arxiv.org/abs/2208.12650).
 
 **Course Developers:**
