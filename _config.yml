@@ -19,9 +19,9 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Harvard's CS290 Teaching Materials                          # the main title
+title: Seminar on Effective Research Practices & Academic Culture     # the main title
 
-tagline: Seminar on Effective Research Practices & Academic Culture   # it will display as the sub-title
+tagline: Teaching Materials 2022-2023   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Teaching materials for Harvard's CS290, the seminar on effective research practices and academic culture
