@@ -1,5 +1,5 @@
 ---
-title: A systemic perspective on academic culture: feedback cycles in academic culture
+title: A systemic perspective on academic culture -- feedback cycles in academic culture
 author: [yaniv_yacoby, eura_shin]
 date: 2022-11-18 09:00:00 +0800
 tags: [academic-culture]
