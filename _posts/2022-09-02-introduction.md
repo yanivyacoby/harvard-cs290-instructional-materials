@@ -1,7 +1,7 @@
 ---
 title: Welcome! And what to expect from this seminar
 author: [yaniv_yacoby, eura_shin, john_girash, david_parkes]
-date: 2022-09-02 
+date: 2022-09-02 09:00:00 +1200
 tags: [normalizing-struggle]
 math: false
 mermaid: false
