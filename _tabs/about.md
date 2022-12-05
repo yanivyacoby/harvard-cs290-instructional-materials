@@ -24,8 +24,7 @@ If you do use our materials, please do reference our [student-facing course webs
   keywords = {mental health in doctoral programs, social isolation in doctoral programs, self-regulation, self-efficacy, imposter phenomenon},
   location = {Toronto, ON, Canada},
   series = {SIGCSE 2023}
-}
-{% endraw %}
+} {% endraw %}
 ```
 Feel free to reach out to us if you have any questions, suggestions, or to let us know how you used these materials! We'd love to know.
 
