@@ -21,7 +21,7 @@ comments: false
 * Peruse information about fellowships (see course website). Think of questions to ask the panel. Submit one of these questions.
   * Skim the fellowship advice from [Harvard](https://gsas.harvard.edu/financial-support/fellowships) and by [MIT](https://oge.mit.edu/finances/fellowships/fellowship-tips/) (click on left-pane links).
   * Peruse the list of fellowships compiled by [John Girash](https://wiki.harvard.edu/confluence/pages/viewpage.action?spaceKey=SEASDOCSOAP&title=List+of+external+fellowships), by [CMU](https://www.cs.cmu.edu/~gradfellowships/), and by [NC State](https://www.csc.ncsu.edu/dgp/fellowships.html).
-* Watch [Larry McEnerney: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM), and answer:
+* Watch [Larry McEnerney: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM). We encourage you to watch this talk in groups! Answer:
   * According to the lecture, what is the writing process useful for? Hint: what are the "horizontal" vs. "vertical" axes? Explain.
   * In what ways does writing differ between high-school/undergraduate and doctoral programs? What are the implications of these differences? (list at least 2). Hint #1: where does "value" lie. Hint #2: what are "explanations" for?
   * What is the goal of professional writing?
