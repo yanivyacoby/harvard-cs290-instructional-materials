@@ -2,14 +2,16 @@
 title: A systemic perspective on academic culture -- feedback cycles in academic culture
 author: [yaniv_yacoby, eura_shin]
 date: 2022-11-18 09:00:00 +0800
-tags: [academic-culture]
+tags: [academic-culture, dei]
 math: false
 mermaid: false
 comments: false
 ---
 
 > **Objectives:**
-* TODO.
+* Introduce concept of **systemic** issue, as an issue stemming from economic, cultural, legal, etc. incentives.
+* Re-motivate the purpose of the seminar so far as a systemic **intervention** to the problem of **hidden curriculum** in doctoral programs.
+* Demonstrate to students how positive feedback cycles in academic **reinforce** problematic misconceptions. This ultimately impedes us as a community from performing rigorous, inclusive and useful science, as well as individually in our professional growth, by contributing to unrealistic self-expectations (and therefore poor mental health), hindering from building supportive academic communities.
 {: .prompt-info }
 
 
@@ -29,7 +31,7 @@ comments: false
   * Ideally, what are the goals of the scientific community?
   * According to the speaker, what are some bad rules and good rules that we currently operate under to achieve the goals of our scientific community?
   * In groups: can you think of bad rules and good rules that we currently or could operate under to achieve the goals of our scientific community?
-3. 
+3. TODO
 
 3. Ask students to fill in-class survey:
   * TODO
