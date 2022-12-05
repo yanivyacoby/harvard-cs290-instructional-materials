@@ -4,6 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+> **Note:** This website currently only containts the materials for the Fall 2022 offering of the seminar. We will update it to contain the Spring materials in the Summer of 2023.
+{: .prompt-warning }
+
 
 This website contains the complete materials for Harvard's 2022-2023 offering of CS290, the Seminar on Effective Research Practices & Academic Culture.
 This seminar is mandatory for all entering Computer Science doctoral students.
@@ -26,4 +29,11 @@ Course developers:
 ## Course Overview
 
 The course meets once a week for 120min during the fall and spring semesters.
-Students are given time both at the beginning of class and at the end (if there's time) to socialize.
+Classes generally followed this structure:
+1. Students are given time to socialize.
+2. A brief recap of takeaways last week's session (whole-class discussion)
+3. A brief presentation motivating today's topic
+4. Alternating small-group exercises with whole-class discussion
+5. A brief survey on today's session
+6. Some time at the end for socializing
+
