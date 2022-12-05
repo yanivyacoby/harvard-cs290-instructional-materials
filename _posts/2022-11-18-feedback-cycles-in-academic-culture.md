@@ -12,6 +12,7 @@ comments: false
 * Introduce concept of **systemic** issue, as an issue stemming from economic, cultural, legal, etc. incentives.
 * Re-motivate the purpose of the seminar so far as a systemic **intervention** to the problem of **hidden curriculum** in doctoral programs.
 * Demonstrate to students how positive feedback cycles in academic **reinforce** problematic misconceptions. This ultimately impedes us as a community from performing rigorous, inclusive and useful science, as well as individually in our professional growth, by contributing to unrealistic self-expectations (and therefore poor mental health), hindering from building supportive academic communities.
+* Brainstorm **interventions** to break such cycles
 {: .prompt-info }
 
 
@@ -31,9 +32,58 @@ comments: false
   * Ideally, what are the goals of the scientific community?
   * According to the speaker, what are some bad rules and good rules that we currently operate under to achieve the goals of our scientific community?
   * In groups: can you think of bad rules and good rules that we currently or could operate under to achieve the goals of our scientific community?
-3. TODO
-
-3. Ask students to fill in-class survey:
+3. [10min] Re-motivate the seminar (what we've covered so far) as an intervention to a systemic issue -- hidden curricula in doctoral programs. Use this as a platform to talk about the broader issue: positive feedback cycles that reinforce problematic academic cultural values.
+4. Remainder of class: each group gets assigned one section on the [course materials](https://yanivyacoby.github.io/harvard-cs290/materials/) page. From the paragraph in that section, and from skimming the abstracts of the papers, students will construct their own feedback cycles following the template below.
+5. Re-group to discuss the students' responses
+6. Ask students to fill in-class survey:
   * TODO
 
 
+## Understanding Feedback Cycles in Academic Culture
+
+**Instructions:**
+Go to the materials page of the course website. Read your assigned section. You may find it helpful to quickly skim through abstracts / titles of the listed papers.
+Create a positive feedback cycle following the below template. 
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th>Instantiation</th>
+    <th>Example</th>
+    <th>Intervention</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Step 1: Societal misconceptions about research/science/Ph.D.</td>
+    <td>The myth of the lone genius</td>
+    <td>"Good science is done by lone geniuses."</td>
+    <td>TODO</td>
+  </tr>
+  <tr>
+    <td>Step 2: Effect of misconception on us internally</td>
+    <td>Unrealistic expectations &amp; ineffective research practices</td>
+    <td>"If I deserve to be here, I should be able to figure everything out alone."</td>
+    <td>TODO</td>
+  </tr>
+  <tr>
+    <td>Step 3: Effect of misconception on us externally</td>
+    <td>Failure to meet expectations </td>
+    <td>"I'm working really hard but not making meaningful progress on research or acquiring new skills.”</td>
+    <td>TODO</td>
+  </tr>
+  <tr>
+    <td>Step 4: Effect on the culture, as a whole</td>
+    <td>Imposter phenomenon &amp; isolation </td>
+    <td>"Everyone else deserves to be here -- I'm the only one who does not have the inborn skills necessary to succeed. I don't want to be discovered as the only person undeserving to be here -- I won't ask for help / attend office hours."</td>
+    <td>TODO</td>
+  </tr>
+  <tr>
+    <td>Step 5: Reinforcing initial misconceptions</td>
+    <td>Poor performance, reinforcing idea that science is done by lone geniuses </td>
+    <td>"I can’t succeed without support. Since no one else seems to be struggling, I'm the one not cut out for the program." In other words, the myth of the lone genius must be true.</td>
+    <td>TODO</td>
+  </tr>
+</tbody>
+</table>
