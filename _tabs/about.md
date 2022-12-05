@@ -41,7 +41,7 @@ Feel free to reach out to us if you have any questions, suggestions, or to let u
 * [David Parkes](https://parkes.seas.harvard.edu/)
 
 
-**Course Overview:**
+**Class Structure:**
 The course meets once a week for 120min during the fall and spring semesters.
 Classes generally followed this structure:
 1. Students are given time to socialize
