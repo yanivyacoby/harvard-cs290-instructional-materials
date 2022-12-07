@@ -87,12 +87,12 @@ In the pre-class work for the first class, there were many themes that popped up
     <td style="white-space: normal;"><i>My peers are more accomplished than me</i></td>
     <td style="white-space: normal;">
       <ul>
-        <li>Assumes that you need to have similar accomplishments as all other students combined</li>
+        <li>Assumes that you need to have similar accomplishments to all other students combined</li>
         <li>Assumes that past success indicates future success</li>
         <li>Assumes that everyone values the same type of achievements</li>
 	<li>Assumes that everybody is at the same point in their academic journey</li>
-	<li>Assumes that you are in a competition with your peers, rather than cooperate with and seek help from them.</li>
-	<li>It is often assumed you need publications to get accepted to PhD programs</li>
+	<li>Assumes that you are in a competition with your peers</li>
+	<li>Assumes you need publications to get accepted to Ph.D. programs</li>
       </ul>  
     </td>
   </tr>
@@ -100,12 +100,12 @@ In the pre-class work for the first class, there were many themes that popped up
     <td style="white-space: normal;"><i>I don't have the right background (e.g. math, cs, coding)</i></td>
     <td style="white-space: normal;">
       <ul>
-        <li>Expectation of a particular set of prerequisites, that there won't be time to learn anything during the program, that the admissions committee made a mistake</li>
-        <li>We assume that there is a "right background"</li>
-        <li>Need to know everything during the PhD<br>Not having time to learn what is necessary</li>
+        <li>Assumes a particular set of prerequisites, that there won't be time to learn anything during the program, that the admissions committee made a mistake</li>
+        <li>Assumes that there is a "right background"</li>
+        <li>Assumes that you need to know everything before the Ph.D.
         <li>We focus on the things we aren't good at vs what we are.</li>
-        <li>You're at a disadvantage if you don't know certain things or have had certain research or industry experience</li>
-        <li>That differences in background are a weakness as opposed to a strength</li>
+        <li>Assumes you're at a disadvantage if you don't know certain things or have had certain research or industry experience</li>
+        <li>Assumes That differences in background are a weakness as opposed to a strength</li>
       </ul>
      </td>
   </tr>
@@ -113,13 +113,13 @@ In the pre-class work for the first class, there were many themes that popped up
     <td style="white-space: normal;"><i>What if my research projects fail?</i></td>
     <td style="white-space: normal;">
       <ul>
-        <li>Assume every (incoming) PhD student is already well-trained for research and can make every project work.</li>
+        <li>Assumes every (incoming) Ph.D. student is already well-trained for research and can make every project work.</li>
         <li>Assumes that failure is bad, when it actually could be beneficial to learn from</li>
         <li>Assumes that you need to have a well-polish product in order to present your work</li>
-        <li>To be successful, you can never fail</li>
-        <li>Assume every research should end with positive results or a publication</li>
-        <li>Assume failure is not a part of research</li>
-        <li>Assumes that a failed project isa waste of time</li>
+        <li>Assumes that to be successful, you can never fail</li>
+        <li>Assumes that every research should end with positive results or a publication</li>
+        <li>Assumes that failure is not a part of research</li>
+        <li>Assumes that a failed project is a waste of time</li>
       </ul>
     </td>
   </tr>
@@ -127,7 +127,7 @@ In the pre-class work for the first class, there were many themes that popped up
     <td style="white-space: normal;"><i>What if I don't publish enough?</i></td>
     <td style="white-space: normal;">
       <ul>
-        <li>Assuming that all publications are of the same quality</li>
+        <li>Assumes that all publications are of the same quality</li>
         <li>Assumes Quantity &gt; quality when it really should be the other way round</li>
         <li>Assumes there is a specific metric of number of publications that you have to meet</li>
       </ul>
@@ -137,12 +137,10 @@ In the pre-class work for the first class, there were many themes that popped up
     <td style="white-space: normal;"><i>What if I can't find a good research problem?</i></td>
     <td style="white-space: normal;">
       <ul>
-        <li>Assumes that a first-year student is supposed to find all the right research problem alone</li>
-        <li>Assumes finding good research problems is an independent endeavour</li>
-        <li>Assumes a limited number of good problems</li>
+        <li>Assumes that a first-year student is supposed to find all the right research problems alone</li>
+        <li>Assumes there only exist a limited number of good problems</li>
         <li>Assumes that you have to have your thesis topic right away</li>
         <li>Assumes you have to find the problem yourself, when your advisor and others are there to help you</li>
-        <li>Assumes there are good research problems</li>
         <li>Assumes that you have to know whether a problem is good at the start</li>
       </ul>
     </td>
@@ -151,13 +149,13 @@ In the pre-class work for the first class, there were many themes that popped up
     <td style="white-space: normal;"><i>How can I juggle courses, research, sleep relationships, etc?</i></td>
     <td style="white-space: normal;">
       <ul>
-        <li>Assumption that the program will be difficult</li>
-        <li>Assumes that a PhD is heavier than a typical 9-5 job</li>
+        <li>Assumes that the program will be difficult</li>
+        <li>Assumes that a Ph.D. is heavier than a typical 9-5 job</li>
         <li>Assumes that juggling is a solo act</li>
         <li>Assumes that courses, research, other activities need to be disjoint from each other</li>
-        <li>Can't sacrifice time on research for anything</li>
-        <li>We assume that juggle means if have to juggle "perfectly"</li>
-        <li>There is no "right" way to work</li>
+        <li>Assumes that you can't sacrifice research time for anything</li>
+        <li>Assumes that juggling means we have to juggle "perfectly"</li>
+        <li>Assumes there's a "right" way to work</li>
       </ul>
     </td>
   </tr>
@@ -165,12 +163,11 @@ In the pre-class work for the first class, there were many themes that popped up
     <td style="white-space: normal;"><i>Can I really put my life on hold to do this Ph.D.?</i></td>
     <td style="white-space: normal;">
       <ul>
-        <li>You can't have a life and do a PhD</li>
-        <li>You're expected to prioritize the PhD above everything else</li>
-        <li>You're not supposed to treat a PhD like a job</li>
-        <li>Assumes that PhD is not "real life"</li>
-        <li>You shouldn't need anything outside the PhD</li>
-        <li>We assume that we have to put your life on hard— an that we can't live while doing a PhD</li>
+        <li>Assumes that you can't have a life and do a Ph.D.</li>
+        <li>Assumes you're expected to prioritize the Ph.D. above everything else</li>
+        <li>Assumes you're not supposed to treat a Ph.D. like a job</li>
+        <li>Assumes that the Ph.D. is not "real life"</li>
+        <li>Assumes you shouldn't need anything outside the Ph.D.</li>
       </ul>
     </td>
   </tr>
