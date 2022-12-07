@@ -98,7 +98,16 @@ In the pre-class work for the first class, there were many themes that popped up
   </tr>
   <tr>
     <td style="white-space: normal;"><i>I don't have the right background (e.g. math, cs, coding)</i></td>
-    <td style="white-space: normal;">Expectation of a particular set of prerequisites, that there won't be time to learn anything during the program, that the admissions committee made a mistake<br>We assume that there is a "right background"<br>Need to know everything during the PhD<br>Not having time to learn what is necessary<br>We focus on the things we aren't good at vs what we are. <br>You're at a disadvantage if you don't know certain things or have had certain research or industry experience<br>That differences in background are a weakness as opposed to a strength</td>
+    <td style="white-space: normal;">
+      <ul>
+        <li>Expectation of a particular set of prerequisites, that there won't be time to learn anything during the program, that the admissions committee made a mistake</li>
+        <li>We assume that there is a "right background"</li>
+        <li>Need to know everything during the PhD<br>Not having time to learn what is necessary</li>
+        <li>We focus on the things we aren't good at vs what we are.</li>
+        <li>You're at a disadvantage if you don't know certain things or have had certain research or industry experience</li>
+        <li>That differences in background are a weakness as opposed to a strength</li>
+      </ul>
+     </td>
   </tr>
   <tr>
     <td style="white-space: normal;"><i>What if my research projects fail?</i></td>
