@@ -107,7 +107,7 @@ In the pre-class work for the first class, there were many themes that popped up
         <li>Assumes you're at a disadvantage if you don't know certain things or have had certain research or industry experience</li>
         <li>Assumes That differences in background are a weakness as opposed to a strength</li>
       </ul>
-     </td>
+    </td>
   </tr>
   <tr>
     <td style="white-space: normal;"><i>What if my research projects fail?</i></td>
