@@ -106,10 +106,10 @@ In the pre-class work for the first class, there were many themes that popped up
         <ul>
           <li>Assumes a particular set of prerequisites, that there won't be time to learn anything during the program, that the admissions committee made a mistake</li>
           <li>Assumes that there is a "right background"</li>
-          <li>Assumes that you need to know everything before the Ph.D.
+          <li>Assumes that you need to know everything before the Ph.D.</li>
           <li>We focus on the things we aren't good at vs what we are.</li>
           <li>Assumes you're at a disadvantage if you don't know certain things or have had certain research or industry experience</li>
-          <li>Assumes That differences in background are a weakness as opposed to a strength</li>
+          <li>Assumes that differences in background are a weakness as opposed to a strength</li>
         </ul>
       </td>
     </tr>
@@ -168,6 +168,20 @@ In the pre-class work for the first class, there were many themes that popped up
           <li>Assumes that you can't sacrifice research time for anything</li>
           <li>Assumes that juggling means we have to juggle "perfectly"</li>
           <li>Assumes there's a "right" way to work</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: normal;">
+        <i>Can I really put my life on hold to do this Ph.D.?</i>
+      </td>
+      <td style="white-space: normal;">
+        <ul>
+          <li>Assumes that you can't have a life and do a Ph.D.</li>
+          <li>Assumes you're expected to prioritize the Ph.D. above everything else</li>
+          <li>Assumes you're not supposed to treat a Ph.D. like a job</li>
+          <li>Assumes that the Ph.D. is not "real life"</li>
+          <li>Assumes you shouldn't need anything outside the Ph.D.</li>
         </ul>
       </td>
     </tr>
