@@ -136,7 +136,17 @@ In the pre-class work for the first class, there were many themes that popped up
   </tr>
   <tr>
     <td style="white-space: normal;"><i>What if I can't find a good research problem?</i></td>
-    <td style="white-space: normal;">Assuming that a first-year student is supposed to find all the right research problem alone<br>Assumes finding good research problems is an independent endeavour<br>Assumes a limited number of good problems.<br>Assumes that you have to have your thesis topic right away<br>Assumes you have to find the problem yourself, when your advisor and others are there to help you<br>Assumes there are good research problems<br>Assumes that you have to know whether a problem is good at the start</td>
+    <td style="white-space: normal;">
+      <ul>
+        <li>Assumes that a first-year student is supposed to find all the right research problem alone</li>
+        <li>Assumes finding good research problems is an independent endeavour</li>
+        <li>Assumes a limited number of good problems</li>
+        <li>Assumes that you have to have your thesis topic right away</li>
+        <li>Assumes you have to find the problem yourself, when your advisor and others are there to help you</li>
+        <li>Assumes there are good research problems</li>
+        <li>Assumes that you have to know whether a problem is good at the start</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td style="white-space: normal;"><i>How can I juggle courses, research, sleep relationships, etc?</i></td>
