@@ -121,6 +121,7 @@ In the pre-class work for the first class, there were many themes that popped up
         <li>Assume failure is not a part of research</li>
         <li>Assumes that a failed project isa waste of time</li>
       </ul>
+    </td>
   </tr>
   <tr>
     <td style="white-space: normal;"><i>What if I don't publish enough?</i></td>
