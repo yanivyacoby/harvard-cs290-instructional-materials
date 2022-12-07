@@ -29,9 +29,9 @@ If you do use our materials, please do reference our [student-facing course webs
 Feel free to reach out to us if you have any questions, suggestions, or to let us know how you used these materials! We'd love to know.
 
 
-**Helpful Links:**
-* The student-facing 2022-2023 [course website](https://yanivyacoby.github.io/harvard-cs290) (the 2021-2022 course website can be found [here](https://yanivyacoby.github.io/harvard-cs290-2021-2022/))
-* Our paper about the course describing our philosophy, learning objective and evaluation of the course: [Empowering First-Year Computer Science Ph.D. Students to Create a Culture that Values Community and Mental Health](https://arxiv.org/abs/2208.12650).
+**Course Materials and Design:**
+* The **student-facing** 2022-2023 [course website](https://yanivyacoby.github.io/harvard-cs290) (the 2021-2022 course website can be found [here](https://yanivyacoby.github.io/harvard-cs290-2021-2022/))
+* Our paper about the course describing our **design philosophy, learning objective and evaluation** of the course: [Empowering First-Year Computer Science Ph.D. Students to Create a Culture that Values Community and Mental Health](https://arxiv.org/abs/2208.12650).
 
 **Course Developers:**
 * [Yaniv Yacoby](https://yanivyacoby.github.io/)
