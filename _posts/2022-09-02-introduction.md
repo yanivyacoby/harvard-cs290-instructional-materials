@@ -171,19 +171,5 @@ In the pre-class work for the first class, there were many themes that popped up
         </ul>
       </td>
     </tr>
-    <tr>
-      <td style="white-space: normal;">
-        <i>Can I really put my life on hold to do this Ph.D.?</i>
-      </td>
-      <td style="white-space: normal;">
-        <ul>
-          <li>Assumes that you can't have a life and do a Ph.D.</li>
-          <li>Assumes you're expected to prioritize the Ph.D. above everything else</li>
-          <li>Assumes you're not supposed to treat a Ph.D. like a job</li>
-          <li>Assumes that the Ph.D. is not "real life"</li>
-          <li>Assumes you shouldn't need anything outside the Ph.D.</li>
-        </ul>
-      </td>
-    </tr>
   </tbody>
 </table>
