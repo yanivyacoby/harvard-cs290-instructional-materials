@@ -128,7 +128,6 @@ In the pre-class work for the first class, there were many themes that popped up
     <td style="white-space: normal;">
       <ul>
         <li>Assuming that all publications are of the same quality</li>
-        <li>Current ML students publishing 3 a year and most people have at least 5 papers throughout their graduate school</li>
         <li>Assumes Quantity &gt; quality when it really should be the other way round</li>
         <li>Assumes there is a specific metric of number of publications that you have to meet</li>
       </ul>
@@ -150,11 +149,30 @@ In the pre-class work for the first class, there were many themes that popped up
   </tr>
   <tr>
     <td style="white-space: normal;"><i>How can I juggle courses, research, sleep relationships, etc?</i></td>
-    <td style="white-space: normal;">Assumption that the program will be difficult<br>Assumes that a PhD is heavier than a typical 9-5 job<br>Assumes that juggling is a solo act<br>Assumes that courses, research, other activities need to be disjoint from each other <br>Can't sacrifice time on research for anything<br>We assume that juggle means if have to juggle "perfectly"<br>There is no "right" way to work</td>
+    <td style="white-space: normal;">
+      <ul>
+        <li>Assumption that the program will be difficult</li>
+        <li>Assumes that a PhD is heavier than a typical 9-5 job</li>
+        <li>Assumes that juggling is a solo act</li>
+        <li>Assumes that courses, research, other activities need to be disjoint from each other</li>
+        <li>Can't sacrifice time on research for anything</li>
+        <li>We assume that juggle means if have to juggle "perfectly"</li>
+        <li>There is no "right" way to work</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td style="white-space: normal;"><i>Can I really put my life on hold to do this Ph.D.?</i></td>
-    <td style="white-space: normal;">You can't have a life and do a PhD<br>You're expected to prioritize the PhD above everything else<br>You're not supposed to treat a PhD like a job<br>Assumes that PhD is not "real life" <br>You shouldn't need anything outside the PhD<br>We assume that we have to put your life on hard— an that we can't live while doing a PhD</td>
+    <td style="white-space: normal;">
+      <ul>
+        <li>You can't have a life and do a PhD</li>
+        <li>You're expected to prioritize the PhD above everything else</li>
+        <li>You're not supposed to treat a PhD like a job</li>
+        <li>Assumes that PhD is not "real life"</li>
+        <li>You shouldn't need anything outside the PhD</li>
+        <li>We assume that we have to put your life on hard— an that we can't live while doing a PhD</li>
+      </ul>
+    </td>
   </tr>
 </tbody>
 </table>
