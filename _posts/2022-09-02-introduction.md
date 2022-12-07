@@ -117,7 +117,7 @@ In the pre-class work for the first class, there were many themes that popped up
         <li>Assumes that failure is bad, when it actually could be beneficial to learn from</li>
         <li>Assumes that you need to have a well-polish product in order to present your work</li>
         <li>To be successful, you can never fail</li>
-        <li>Assume every research should have a "happy ending" or should end in a publication</li>
+        <li>Assume every research should end with positive results or a publication</li>
         <li>Assume failure is not a part of research</li>
         <li>Assumes that a failed project isa waste of time</li>
       </ul>
@@ -125,7 +125,14 @@ In the pre-class work for the first class, there were many themes that popped up
   </tr>
   <tr>
     <td style="white-space: normal;"><i>What if I don't publish enough?</i></td>
-    <td style="white-space: normal;">Assuming that all publications are of the same quality<br>Current ML students publishing 3 a year and most people have at least 5 papers throughout their graduate school <br>Assume research is binary outcome is s<br>Quantity &gt; quality when it really should be the other way round<br>Assumes there is a specific metric of number of publications that you have to meet</td>
+    <td style="white-space: normal;">
+      <ul>
+        <li>Assuming that all publications are of the same quality</li>
+        <li>Current ML students publishing 3 a year and most people have at least 5 papers throughout their graduate school</li>
+        <li>Assumes Quantity &gt; quality when it really should be the other way round</li>
+        <li>Assumes there is a specific metric of number of publications that you have to meet</li>
+      </ul>
+    </td>      
   </tr>
   <tr>
     <td style="white-space: normal;"><i>What if I can't find a good research problem?</i></td>
