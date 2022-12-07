@@ -86,12 +86,15 @@ In the pre-class work for the first class, there were many themes that popped up
   <tr>
     <td style="white-space: normal;"><i>My peers are more accomplished than me</i></td>
     <td style="white-space: normal;">
-	Assumes that you need to have similar accomplishments as all other students combined<br>
-    	Assumes that past success indicates future success<br>
-	Assumes that everyone values the same type of achievements<br>
-	Assumes that everybody is at the same point in their academic journey<br>
-	Assumes that you are in a competition with your peers, rather than cooperate with and seek help from them.<br>
-	It is often assumed you need publications to get accepted to PhD programs</td>
+      <ul>
+        <li>Assumes that you need to have similar accomplishments as all other students combined</li>
+        <li>Assumes that past success indicates future success</li>
+        <li>Assumes that everyone values the same type of achievements</li>
+	<li>Assumes that everybody is at the same point in their academic journey</li>
+	<li>Assumes that you are in a competition with your peers, rather than cooperate with and seek help from them.</li>
+	<li>It is often assumed you need publications to get accepted to PhD programs</li>
+      </ul>  
+    </td>
   </tr>
   <tr>
     <td style="white-space: normal;"><i>I don't have the right background (e.g. math, cs, coding)</i></td>
