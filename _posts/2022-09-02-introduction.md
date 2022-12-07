@@ -75,17 +75,17 @@ comments: false
 In the pre-class work for the first class, there were many themes that popped up over and over again -- worries that seemed to be on everyone's mind. It's important for us to come together as a community to discuss what are the expectations/assumption implied by each of these worries so that we can set more realistic expectations for ourselves, support each other, and ultimately enjoy the Ph.D. Below are the statements (worries), as well as the expectations implied by the statements you all came up with in class:
 
 
-<table>
+<table style="table-layout: fixed; width: 100%">
 <thead>
   <tr>
-    <th>Statement</th>
-    <th>Expectation/assumption behind statement</th>
+    <th style="white-space: normal;">Statement</th>
+    <th style="white-space: normal;">Expectation/assumption behind statement</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><i>My peers are more accomplished than me</i></td>
-    <td>
+    <td style="white-space: normal;"><i>My peers are more accomplished than me</i></td>
+    <td style="white-space: normal;">
 	Assumes that you need to have similar accomplishments as all other students combined<br>
     	Assumes that past success indicates future success<br>
 	Assumes that everyone values the same type of achievements<br>
@@ -94,28 +94,28 @@ In the pre-class work for the first class, there were many themes that popped up
 	It is often assumed you need publications to get accepted to PhD programs</td>
   </tr>
   <tr>
-    <td><i>I don't have the right background (e.g. math, cs, coding)</i></td>
-    <td>Expectation of a particular set of prerequisites, that there won't be time to learn anything during the program, that the admissions committee made a mistake<br>We assume that there is a "right background"<br>Need to know everything during the PhD<br>Not having time to learn what is necessary<br>We focus on the things we aren't good at vs what we are. <br>You're at a disadvantage if you don't know certain things or have had certain research or industry experience<br>That differences in background are a weakness as opposed to a strength</td>
+    <td style="white-space: normal;"><i>I don't have the right background (e.g. math, cs, coding)</i></td>
+    <td style="white-space: normal;">Expectation of a particular set of prerequisites, that there won't be time to learn anything during the program, that the admissions committee made a mistake<br>We assume that there is a "right background"<br>Need to know everything during the PhD<br>Not having time to learn what is necessary<br>We focus on the things we aren't good at vs what we are. <br>You're at a disadvantage if you don't know certain things or have had certain research or industry experience<br>That differences in background are a weakness as opposed to a strength</td>
   </tr>
   <tr>
-    <td><i>What if my research projects fail?</i></td>
-    <td>Assume every (incoming) PhD student is already well-trained for research and can make every project work.<br>Assumes that failure is bad, when it actually could be beneficial to learn from<br>Assumes that you need to have a well-polish product in order to present your work<br>To be successful, you can never fail<br>Assume every research should have a "happy ending" or should end in a publication <br>Assume failure is not a part of research<br>Assumes that a failed project isa waste of time</td>
+    <td style="white-space: normal;"><i>What if my research projects fail?</i></td>
+    <td style="white-space: normal;">Assume every (incoming) PhD student is already well-trained for research and can make every project work.<br>Assumes that failure is bad, when it actually could be beneficial to learn from<br>Assumes that you need to have a well-polish product in order to present your work<br>To be successful, you can never fail<br>Assume every research should have a "happy ending" or should end in a publication <br>Assume failure is not a part of research<br>Assumes that a failed project isa waste of time</td>
   </tr>
   <tr>
-    <td><i>What if I don't publish enough?</i></td>
-    <td>Assuming that all publications are of the same quality<br>Current ML students publishing 3 a year and most people have at least 5 papers throughout their graduate school <br>Assume research is binary outcome is s<br>Quantity &gt; quality when it really should be the other way round<br>Assumes there is a specific metric of number of publications that you have to meet</td>
+    <td style="white-space: normal;"><i>What if I don't publish enough?</i></td>
+    <td style="white-space: normal;">Assuming that all publications are of the same quality<br>Current ML students publishing 3 a year and most people have at least 5 papers throughout their graduate school <br>Assume research is binary outcome is s<br>Quantity &gt; quality when it really should be the other way round<br>Assumes there is a specific metric of number of publications that you have to meet</td>
   </tr>
   <tr>
-    <td><i>What if I can't find a good research problem?</i></td>
-    <td>Assuming that a first-year student is supposed to find all the right research problem alone<br>Assumes finding good research problems is an independent endeavour<br>Assumes a limited number of good problems.<br>Assumes that you have to have your thesis topic right away<br>Assumes you have to find the problem yourself, when your advisor and others are there to help you<br>Assumes there are good research problems<br>Assumes that you have to know whether a problem is good at the start</td>
+    <td style="white-space: normal;"><i>What if I can't find a good research problem?</i></td>
+    <td style="white-space: normal;">Assuming that a first-year student is supposed to find all the right research problem alone<br>Assumes finding good research problems is an independent endeavour<br>Assumes a limited number of good problems.<br>Assumes that you have to have your thesis topic right away<br>Assumes you have to find the problem yourself, when your advisor and others are there to help you<br>Assumes there are good research problems<br>Assumes that you have to know whether a problem is good at the start</td>
   </tr>
   <tr>
-    <td><i>How can I juggle courses, research, sleep relationships, etc?</i></td>
-    <td>Assumption that the program will be difficult<br>Assumes that a PhD is heavier than a typical 9-5 job<br>Assumes that juggling is a solo act<br>Assumes that courses, research, other activities need to be disjoint from each other <br>Can't sacrifice time on research for anything<br>We assume that juggle means if have to juggle "perfectly"<br>There is no "right" way to work</td>
+    <td style="white-space: normal;"><i>How can I juggle courses, research, sleep relationships, etc?</i></td>
+    <td style="white-space: normal;">Assumption that the program will be difficult<br>Assumes that a PhD is heavier than a typical 9-5 job<br>Assumes that juggling is a solo act<br>Assumes that courses, research, other activities need to be disjoint from each other <br>Can't sacrifice time on research for anything<br>We assume that juggle means if have to juggle "perfectly"<br>There is no "right" way to work</td>
   </tr>
   <tr>
-    <td><i>Can I really put my life on hold to do this Ph.D.?</i></td>
-    <td>You can't have a life and do a PhD<br>You're expected to prioritize the PhD above everything else<br>You're not supposed to treat a PhD like a job<br>Assumes that PhD is not "real life" <br>You shouldn't need anything outside the PhD<br>We assume that we have to put your life on hard— an that we can't live while doing a PhD</td>
+    <td style="white-space: normal;"><i>Can I really put my life on hold to do this Ph.D.?</i></td>
+    <td style="white-space: normal;">You can't have a life and do a PhD<br>You're expected to prioritize the PhD above everything else<br>You're not supposed to treat a PhD like a job<br>Assumes that PhD is not "real life" <br>You shouldn't need anything outside the PhD<br>We assume that we have to put your life on hard— an that we can't live while doing a PhD</td>
   </tr>
 </tbody>
 </table>
