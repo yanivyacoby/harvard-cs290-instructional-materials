@@ -111,7 +111,16 @@ In the pre-class work for the first class, there were many themes that popped up
   </tr>
   <tr>
     <td style="white-space: normal;"><i>What if my research projects fail?</i></td>
-    <td style="white-space: normal;">Assume every (incoming) PhD student is already well-trained for research and can make every project work.<br>Assumes that failure is bad, when it actually could be beneficial to learn from<br>Assumes that you need to have a well-polish product in order to present your work<br>To be successful, you can never fail<br>Assume every research should have a "happy ending" or should end in a publication <br>Assume failure is not a part of research<br>Assumes that a failed project isa waste of time</td>
+    <td style="white-space: normal;">
+      <ul>
+        <li>Assume every (incoming) PhD student is already well-trained for research and can make every project work.</li>
+        <li>Assumes that failure is bad, when it actually could be beneficial to learn from</li>
+        <li>Assumes that you need to have a well-polish product in order to present your work</li>
+        <li>To be successful, you can never fail</li>
+        <li>Assume every research should have a "happy ending" or should end in a publication</li>
+        <li>Assume failure is not a part of research</li>
+        <li>Assumes that a failed project isa waste of time</li>
+      </ul>
   </tr>
   <tr>
     <td style="white-space: normal;"><i>What if I don't publish enough?</i></td>
