@@ -46,45 +46,45 @@ Go to the materials page of the course website. Read your assigned section. You 
 Create a positive feedback cycle following the below template.
 Please pay particular attention to the way the cycle reinforces societal misconceptions.
 
-<table>
+<table style="table-layout: fixed; width: 100%">
 <thead>
   <tr>
-    <th></th>
-    <th>Instantiation</th>
-    <th>Example</th>
-    <th>Intervention</th>
+    <th style="white-space: normal;"></th>
+    <th style="white-space: normal;">Instantiation</th>
+    <th style="white-space: normal;">Example</th>
+    <th style="white-space: normal;">Intervention</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Step 1: Societal misconceptions about research/science/Ph.D.</td>
-    <td>The myth of the lone genius</td>
-    <td>"Good science is done by lone geniuses."</td>
-    <td>TODO</td>
+    <td style="white-space: normal;">Step 1: Societal misconceptions about research/science/Ph.D.</td>
+    <td style="white-space: normal;">The myth of the lone genius</td>
+    <td style="white-space: normal;">"Good science is done by lone geniuses."</td>
+    <td style="white-space: normal;">TODO</td>
   </tr>
   <tr>
-    <td>Step 2: Effect of misconception on us internally</td>
-    <td>Unrealistic expectations &amp; ineffective research practices</td>
-    <td>"If I deserve to be here, I should be able to figure everything out alone."</td>
-    <td>TODO</td>
+    <td style="white-space: normal;">Step 2: Effect of misconception on us internally</td>
+    <td style="white-space: normal;">Unrealistic expectations &amp; ineffective research practices</td>
+    <td style="white-space: normal;">"If I deserve to be here, I should be able to figure everything out alone."</td>
+    <td style="white-space: normal;">TODO</td>
   </tr>
   <tr>
-    <td>Step 3: Effect of misconception on us externally</td>
-    <td>Failure to meet expectations </td>
-    <td>"I'm working really hard but not making meaningful progress on research or acquiring new skills."</td>
-    <td>TODO</td>
+    <td style="white-space: normal;">Step 3: Effect of misconception on us externally</td>
+    <td style="white-space: normal;">Failure to meet expectations </td>
+    <td style="white-space: normal;">"I'm working really hard but not making meaningful progress on research or acquiring new skills."</td>
+    <td style="white-space: normal;">TODO</td>
   </tr>
   <tr>
-    <td>Step 4: Effect on the culture, as a whole</td>
-    <td>Imposter phenomenon &amp; isolation </td>
-    <td>"Everyone else deserves to be here -- I'm the only one who does not have the inborn skills necessary to succeed. I don't want to be discovered as the only person undeserving to be here -- I won't ask for help / attend office hours."</td>
-    <td>TODO</td>
+    <td style="white-space: normal;">Step 4: Effect on the culture, as a whole</td>
+    <td style="white-space: normal;">Imposter phenomenon &amp; isolation </td>
+    <td style="white-space: normal;">"Everyone else deserves to be here -- I'm the only one who does not have the inborn skills necessary to succeed. I don't want to be discovered as the only person undeserving to be here -- I won't ask for help / attend office hours."</td>
+    <td style="white-space: normal;">TODO</td>
   </tr>
   <tr>
-    <td>Step 5: Reinforcing initial misconceptions</td>
-    <td>Poor performance, reinforcing idea that science is done by lone geniuses </td>
-    <td>"I can’t succeed without support. Since no one else seems to be struggling, I'm the one not cut out for the program." In other words, the myth of the lone genius must be true.</td>
-    <td>TODO</td>
+    <td style="white-space: normal;">Step 5: Reinforcing initial misconceptions</td>
+    <td style="white-space: normal;">Poor performance, reinforcing idea that science is done by lone geniuses </td>
+    <td style="white-space: normal;">"I can’t succeed without support. Since no one else seems to be struggling, I'm the one not cut out for the program." In other words, the myth of the lone genius must be true.</td>
+    <td style="white-space: normal;">TODO</td>
   </tr>
 </tbody>
 </table>
