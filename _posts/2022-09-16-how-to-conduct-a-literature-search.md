@@ -32,7 +32,6 @@ comments: false
   * Has anyone tried this strategy over the last week? How did it go?
   * What are some takeaways from the pre-class work about citation biases?
     > **Insight:** (a) Citations are often used as a measure of success, problematically leading to inequities. (b) More broadly, everything we do as researchers leaves a fingerprint -- who we collaborate with, who we cite, etc.  
-    {: .prompt-tip }
 3. [5min] Overview: how to do a literature search?
   * What is a literature search? What is it for? Why is it hard?
   * Present a step-by-step guide on [how to conduct a literature search](https://yanivyacoby.github.io/harvard-cs290/materials/how-to-do-a-literature-search)
@@ -45,6 +44,10 @@ comments: false
 8. [5min] In-class survey
   * Describe a new strategy you learned (if any) for doing a literature search for each of the following components: finding papers, reading papers, and tracking papers.
   * Is there anything else you took away? If so, what is it?
+
+
+> **Insight:** Students found it valuable to see how the instructors skim the paper abstracts, which words they focus on, which technical terms the gloss over, etc. to determine whether a paper is relevant.
+{: .prompt-tip }
 
 
 ## Example Exercise
