@@ -113,7 +113,7 @@ Example statements include:
   * How do you deal with a couple weeks in which you are too busy or demotivated to do research work (eg. busy with courses)? How do you maintain communication with your advisor during these periods?
   * How do I get around the feeling of not having anything to work on?
   * I find it difficult to express what I've thought about in the meetings with several professors. Do you have advice for speaking up in meetings?
-* ** Identity:**
+* **Identity:**
   * Difficult experiences are often difficult because they challenge our identities / how we think of ourselves. What was an experience you had that challenged your identity? How did you reconcile your old and new identities? 
   * How do you deal with the self-imposed pressure of wanting to make worthwhile scientific contributions despite being in either a fast-paced field like ML/NLP or in a field that's new to you whose "mainstream" contributions and methods you don't fully understand or agree with?
   * What do you do when you set expectations for yourself that seem toxic to everyone around you but that you are okay with? Is it worth it to constantly explain yourself and your rationale?  
