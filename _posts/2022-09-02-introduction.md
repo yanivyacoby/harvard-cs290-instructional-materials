@@ -51,13 +51,13 @@ comments: false
 3. [7min] Introduction
   * Course overview: roadmap of the course, course policies and grading
   * Present themes from the pre-class survey question "Is there anything you’re worried about/intimidated by?".
-  > **Insight:** Most students, while coming from diverse backgrounds, share similar worries about the program. {: .prompt-tip }
+  > **Insight:** Most students, while coming from diverse backgrounds, share similar worries about the program. 
 4. [Discussion + regroup] Break into small groups for discussion of the following questions:
   * [15min + 5min] Q1: What's the expectation/assumption implied by the statement/worry? (see below for an example)
-    > **Insight:** Most of these worries stem from misconceptions about the Ph.D. program, leading to unhealthy self-expectations. {: .prompt-tip }
+    > **Insight:** Most of these worries stem from misconceptions about the Ph.D. program, leading to unhealthy self-expectations. 
   * [10min + 5min] Q2: What is research?
   * [10min + 5min] Q3: What skills do you need to do research? (When re-grouping, relate this back to the course overview).
-  > **Insight:** Our definition of research, as well as most of the skills mentioned in the groups, do not accurately reflect many of the most important skills to develop during the Ph.D. (see slides for an example list). This course will focus on exactly these skills. {: .prompt-tip }
+  > **Insight:** Our definition of research, as well as most of the skills mentioned in the groups, do not accurately reflect many of the most important skills to develop during the Ph.D. (see slides for an example list). This course will focus on exactly these skills. 
   
 5. [5min] A brief guide to classes and program requirements (covered in the orientation but promptly forgotten by students): for example,
   * Show the 5-year SEAS course plan
