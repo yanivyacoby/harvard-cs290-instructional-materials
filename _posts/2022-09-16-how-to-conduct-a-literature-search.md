@@ -46,7 +46,7 @@ comments: false
   * Is there anything else you took away? If so, what is it?
 
 
-> **Insight:** Students found it valuable to see how the instructors skim the paper abstracts, which words they focus on, which technical terms the gloss over, etc. to determine whether a paper is relevant.
+> **Insight:** Students found it valuable to see how the instructors skim the paper abstracts, which keywords they focused on, which technical terms they glossed over, etc. to determine whether a paper is relevant.
 {: .prompt-tip }
 
 
