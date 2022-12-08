@@ -87,7 +87,7 @@ Example statements include:
 
 ## Question Bank
 * "Raise your hand" questions to the panel. 
-  > The goal of these questions is to demonstrate that the panelists relate to many of the same struggles/expectations. It is okay if not all panelists raise their hands; this could be a good place for discussion. 
+  > **Insight:** the goal of these questions is to demonstrate that the panelists relate to many of the same struggles/expectations. It is okay if not all panelists raise their hands; this could be a good place for discussion. 
   * Raise your hand if there has been a time in your PhD in which you felt like you were doing worse than everyone else around you?
   * For many, the first year of the PhD feels slow -- it feels like you work hard, and relative to more experienced PhD students, not too much comes out. Raise your hand if you feel like you've had that experience.
   * Difficult experiences are often difficult because they challenge our identities / how we think of ourselves. Raise your hand if you feel like you've had such an experience during the PhD?
