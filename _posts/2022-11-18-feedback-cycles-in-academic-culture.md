@@ -66,7 +66,7 @@ Then come up with **systemic** interventions for every step of the cycle.
     <td style="white-space: normal;"><strong>Step 1:</strong> Societal misconceptions about research/science/Ph.D.</td>
     <td style="white-space: normal;">The myth of the lone genius</td>
     <td style="white-space: normal;">"Good science is done by lone geniuses."</td>
-    <td style="white-space: normal;">A peer-to-peer support program (reference in-touch) where students have a space to discuss struggles, successses, research, or life in general.</td>
+    <td style="white-space: normal;">A mandatory workshop students attend that highlights the hidden curricula of Ph.D. programs.</td>
   </tr>
   <tr>
     <td style="white-space: normal;"><strong>Step 2:</strong> Effect of misconception on us internally</td>
@@ -78,7 +78,7 @@ Then come up with **systemic** interventions for every step of the cycle.
     <td style="white-space: normal;"><strong>Step 3:</strong> Effect of misconception on us externally</td>
     <td style="white-space: normal;">Failure to meet expectations </td>
     <td style="white-space: normal;">"I'm working really hard but not making meaningful progress on research or acquiring new skills."</td>
-    <td style="white-space: normal;">A mandatory form students must fill (and submit) together with their advisors about their advisors' expectations of them for the first year. If the advisors' expectations are more realistic than those of the student, the student can adjust them. This will also increase transparency into potentially atypical advising practices.</td>
+    <td style="white-space: normal;">A mandatory form students must fill (and submit) together with their advisors about their advisors' expectations of them for the first year. If the advisors' expectations are more realistic than those of the students', the students can adjust them. Otherwise, this will increase transparency into potentially atypical advising practices.</td>
   </tr>
   <tr>
     <td style="white-space: normal;"><strong>Step 4:</strong> Effect on the culture, as a whole</td>
@@ -90,7 +90,7 @@ Then come up with **systemic** interventions for every step of the cycle.
     <td style="white-space: normal;"><strong>Step 5:</strong> Reinforcing initial misconceptions</td>
     <td style="white-space: normal;">Poor performance, reinforcing idea that science is done by lone geniuses </td>
     <td style="white-space: normal;">"I can't succeed without support. Since no one else seems to be struggling, I'm the one not cut out for the program." In other words, the myth of the lone genius must be true.</td>
-    <td style="white-space: normal;">A "service" requirement for the Ph.D. program, in which students in their second year must help organize some social events or serve as peer mentors in the university's peer-to-peer support network.</td>
+    <td style="white-space: normal;">A "service" requirement for the Ph.D. program, in which students in their second year must help organize some social events or serve as peer mentors (e.g. in <a href="https://intouch.seas.harvard.edu/">InTouch</a>)).</td>
   </tr>
 </tbody>
 </table>
