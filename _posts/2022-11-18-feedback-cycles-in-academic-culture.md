@@ -72,7 +72,7 @@ Then come up with **systemic** interventions for every step of the cycle.
     <td style="white-space: normal;"><strong>Step 2:</strong> Effect of misconception on us internally</td>
     <td style="white-space: normal;">Unrealistic expectations &amp; ineffective research practices</td>
     <td style="white-space: normal;">"If I deserve to be here, I should be able to figure everything out alone."</td>
-    <td style="white-space: normal;">A requirement that students must attend at least one session at the Academic Resource Center throughout their first semester to discuss time-management and self-organization.</td>
+    <td style="white-space: normal;">A requirement that students must attend at least one session at the <a href"https://academicresourcecenter.harvard.edu/">Academic Resource Center</a> throughout their first semester to discuss time-management and self-organization.</td>
   </tr>
   <tr>
     <td style="white-space: normal;"><strong>Step 3:</strong> Effect of misconception on us externally</td>
