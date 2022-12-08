@@ -35,7 +35,7 @@ comments: false
   * Open it up to questions from the class
   * Repeat for the next topic
 3. Ask students to fill in-class survey:
-  * TODO
+  * What is one thing you took away from class today? 
 
 
 ## Topics
@@ -64,18 +64,4 @@ comments: false
   * How might you handle these disagreements? 
 
 
-
-## Question Bank
-
-TODO were there other questions submitted to pre-class work?
-
-* First year:
-  * In our first year, many of us PhD students feel afraid that we are disappointing our advisors, that they think we know more than we actually do (and that if we'll ask them questions they'll think less of us), etc. We also tend to overthink interactions with them, e.g. if they answer your messages very briefly, you might feel like you're annoying them. Raise your hand if you feel like you've had these types of experiences in your first year. What are some of these experiences that you had, and how did you overcome them?
-  * How did you navigate expectations around: courses, attending seminars / colloquia, and about meeting cadence and working hours?
-  * How independent did your advisor expect you to be in your first year?
-* Learning what's important to your advisor: 
-  * Raise your hand if, in your first year, you felt like you know what your advisor expects from you and what you can expect from them. Has your advisor made explicit to you their theory of advising, what they expect of you, and/or what you can expect of them? If not, how did you go about figuring these things out?
-  * Is there something you've learned about what your advisor expects from you / some lab logistics that surprised you? What was it?
-* Asking difficult questions:
-  * Many of us at some point in the PhD have to ask our advisor a question that's difficult for us to ask -- e.g. wanting to switch projects because we aren't enjoying it, or because we don't have a good relationship with the other collaborators, needing to take time off to recover from burn-out (or just trying to schedule a time to take a vacation), etc. Raise your hand if you feel like you've had these types of experiences before. What are some of these experiences that you had, and how did you overcome them?
 
