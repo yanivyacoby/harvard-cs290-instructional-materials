@@ -26,6 +26,9 @@ comments: false
 
 ## In class \[[slides](https://docs.google.com/presentation/d/1meP0gCiMPYTJKeKbjVHZeFeoS4eAS2sAA7a69RGR7AQ/edit?usp=sharing)\]
 
+> **Tip:** We have also found that this class material (and the below exercise) can be effectively repurposed as a standalone-workshop for cohort building and encourage explicit discussion of shared struggles. 
+{: .prompt-tip }
+
 1. [10min] Socialize
 2. [20min] Discussion of "The Pursuit of Collective Intelligence":
   * How does the speaker define collective intelligence?
@@ -40,6 +43,7 @@ comments: false
 
 
 ## Understanding Feedback Cycles in Academic Culture
+
 
 **Instructions:**
 Go to the materials page of the course website. Read your assigned section. You may find it helpful to quickly skim through abstracts / titles of the listed papers.
