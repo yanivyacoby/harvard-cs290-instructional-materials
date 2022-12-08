@@ -46,20 +46,20 @@ comments: false
 > **Note:** We did find that leading such discussions was not only helpful for students, but also for the panelists. Oftentimes, junior panelists asked for advice from senior panelists, and all panelists expressed a sense of validation from having such an open discussion about shared struggles. 
 {: .prompt-tip }
 
-1. Social isolation in doctoral programs
+1. **Social isolation in doctoral programs:**
   * Have you seen or experienced social isolation here / in your experience in other programs?
   * What are the contributing factors or causes of social isolation in Ph.D. programs?
   * What can we do to mitigate social isolation?
-2. Faculty expectations of you
+2. **Faculty expectations of you:**
   * What did faculty say the expected of their students in last week's panel? 
   * What do your advisor(s) expect of you?
   * Are there any differences between what you expect from yourself vs. what your advisor(s) expect of you?
   * What aspects of their expectations are you confused about?
   * What are some concrete ways to resolve the confusion?
-3. Communicating needs and wants
+3. **Communicating needs and wants:**
   * What do you need/want from your advisor(s)? E.g., external collaborators, co-advisorship, time off, more/less research feedback, flexibility with deadlines / setting deadlines for motivation, reference letters, summer internship, etc.
   * How do you approach asking your advisor(s) about these?
-4. Managing disagreements
+4. **Managing disagreements:**
   * What are topics you might disagree with your advisor(s) about? E.g. What are the best next steps? What's interesting to work on? Whether it makes sense to do an internship early in your Ph.D.? How to handle conflicting advice from multiple advisors / collaborators?
   * How might you handle these disagreements? 
 
