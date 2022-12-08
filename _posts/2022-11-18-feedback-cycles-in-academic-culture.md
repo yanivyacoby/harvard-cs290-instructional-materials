@@ -26,7 +26,7 @@ comments: false
 
 ## In class \[[slides](https://docs.google.com/presentation/d/1meP0gCiMPYTJKeKbjVHZeFeoS4eAS2sAA7a69RGR7AQ/edit?usp=sharing)\]
 
-> **Tip:** We have also found that this class material (and the below exercise) can be effectively repurposed as a standalone-workshop for cohort building and encourage explicit discussion of shared struggles. 
+> **Tip:** We have also found that this class material (and the below exercise) can be effectively repurposed as a standalone-workshop for cohort building to encourage explicit discussion of shared struggles. 
 {: .prompt-tip }
 
 1. [10min] Socialize
