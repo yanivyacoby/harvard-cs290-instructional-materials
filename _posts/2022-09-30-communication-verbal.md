@@ -27,8 +27,8 @@ comments: false
 {: .prompt-tip }
 1. [10min] Students socialize
 2. [10min] Recap on panels: what did everyone take away from the class on panels?
-3. [5min] Debunk myths about how your collaborators understand your update (see guide)
-4. [10min] Our strategy for giving a good update + instantiate by the class TA
+3. [10min] Debunk myths about how your collaborators understand your update (see guide). TA gives an example of an unclear update and asks class what went wrong. 
+4. [10min] Our strategy for giving a good update + class TA gives an example of a good update (see slides)
 5. [20min] Pair-exercise #1:
   * Pair up with someone in a different field who is not familiar your project
   * Describe the project (using the template)

@@ -35,7 +35,7 @@ comments: false
 {: .prompt-tip }
 
 1. [10min] Socialize
-2. [30min] Small-group discussion and recap about:
+2. [20min] Small-group discussion and recap about:
   * Introduce the idea of "hidden curriculum" -- what kinds of barriers does it present?
   * What did you think of [How to make the most out of your Ph.D.](https://yanivyacoby.github.io/a-guide-to-your-phd/guide.html)? Connect the guide to the Ph.D.'s hidden curriculum. How can you support your peers?
   * What did you think of Beeler's model? Which stage are you in? What did you find valuable about it? And what did you criticize about it?
