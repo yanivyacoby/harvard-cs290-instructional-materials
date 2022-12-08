@@ -39,8 +39,7 @@ comments: false
   * Paper: [Rx: Treating Bugs As Allergies – A Safe Method to Survive Software Failures](https://www.cs.purdue.edu/homes/xyzhang/fall07/Papers/Rx-SOSP05.pdf). Answer guiding questions (alternating discussion and re-grouping). For each question, ask "which section likely contains this info?" and highlight every sentence read.
   * [10 + 5min] Part A: What type of paper is it? How do we know? What's the motivation and potential impact?
   * [10 + 5min] Part B: Guiding questions about the related work and contributions, as well as the broader impact
-  * [5min] Part C: (As a group) How many sentences did we highlight in total?
-5. [20min] Small-group activity 2:
+5. [25min] Small-group activity 2:
   * Paper: [The Dimpled Manifold Model of Adversarial Examples in Machine Learning](https://arxiv.org/abs/2106.10151). 
   * Same as above, but without the structure -- just give students a block of time to work through and answer the questions.
 6. [10min] Re-group and go over the paper.

@@ -39,7 +39,7 @@ comments: false
 4. Remainder of class: each group gets assigned one section on the [course materials](https://yanivyacoby.github.io/harvard-cs290/materials/) page. From the paragraph in that section, and from skimming the abstracts of the papers, students will construct their own feedback cycles following the template below.
 5. Re-group to discuss the students' responses
 6. Ask students to fill in-class survey:
-  * What did you take away from class today?
+  * What is one thing you took away from class today? 
 
 
 ## Understanding Feedback Cycles in Academic Culture
@@ -64,19 +64,19 @@ Please pay particular attention to the way the cycle reinforces societal misconc
     <td style="white-space: normal;"><strong>Step 1:</strong> Societal misconceptions about research/science/Ph.D.</td>
     <td style="white-space: normal;">The myth of the lone genius</td>
     <td style="white-space: normal;">"Good science is done by lone geniuses."</td>
-    <td style="white-space: normal;">TODO</td>
+    <td style="white-space: normal;">A peer-to-peer support program (reference in-touch) where students have a space to discuss struggles, successses, research, or life in general.</td>
   </tr>
   <tr>
     <td style="white-space: normal;"><strong>Step 2:</strong> Effect of misconception on us internally</td>
     <td style="white-space: normal;">Unrealistic expectations &amp; ineffective research practices</td>
     <td style="white-space: normal;">"If I deserve to be here, I should be able to figure everything out alone."</td>
-    <td style="white-space: normal;">TODO</td>
+    <td style="white-space: normal;">Maybe reference ARC or Harvard-wide academic resources?</td>
   </tr>
   <tr>
     <td style="white-space: normal;"><strong>Step 3:</strong> Effect of misconception on us externally</td>
     <td style="white-space: normal;">Failure to meet expectations </td>
     <td style="white-space: normal;">"I'm working really hard but not making meaningful progress on research or acquiring new skills."</td>
-    <td style="white-space: normal;">TODO</td>
+    <td style="white-space: normal;">A mandatory course where soft research skills are emphasized and taught to students.</td>
   </tr>
   <tr>
     <td style="white-space: normal;"><strong>Step 4:</strong> Effect on the culture, as a whole</td>
