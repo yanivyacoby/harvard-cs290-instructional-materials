@@ -21,13 +21,18 @@ comments: false
 1.  Summarize [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf) in one paragraph, underlining/highlighting every sentence you read in the process (not every sentence you find important). Answer questions:
   * How many sentences did you highlight/underline? In which sections did you highlight the most sentences?
   * What was your strategy when reading the paper? For example, in what order did you read the sections? Which sections did you focus on most? What did you do when something didn't make sense?
-  > **Insight:** This exercise helps students actively think about their paper-reading strategy, which they likely have not previously done. 
 2. Fill out a poll to schedule office hours
+
+> **Insight:** This exercise helps students actively think about their paper-reading strategy, which they likely have not previously thought about. 
+{: .prompt-tip }
 
 
 ## In class: \[[slides](https://docs.google.com/presentation/d/1ozxDCtxtJazExXUSXMoHevyGc4uW_nogVjRc1n2qxHU/edit?usp=sharing)\]
-> This unit generally follows the structure of our guide on [how to read a research paper](https://yanivyacoby.github.io/harvard-cs290/materials/how-to-read-a-research-paper/).
+
+> This unit generally follows the structure of our guide on [how to read a research paper](https://ya
+nivyacoby.github.io/harvard-cs290/materials/how-to-read-a-research-paper/).
 {: .prompt-tip }
+
 1. [10min] Students socialize in groups and introduce themselves using the slides they made
 2. [5min] As a group, recap takeaways from last class.
 3. [10min] Go over "general tips" for how to skim a research paper
