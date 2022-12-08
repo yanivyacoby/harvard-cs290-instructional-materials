@@ -30,11 +30,12 @@ comments: false
 
 1. [10min] Socialize
 2. Remainder of class: for each of the below topics, 
-  * Ask students to answer the corresponding questions in small groups
+  * [2min] Ask the panel to raise their hands if they've experienced/struggled with the topic. 
+  * [10min] Ask students to answer the corresponding questions in small groups
   * Re-group: ask the panelists to answer these questions from their perspective (i.e. share a personal story and how they navigated it)
-  * Open it up to questions from the class
+  * [13min] Open it up to questions from the class
   * Repeat for the next topic
-3. Ask students to fill in-class survey:
+3. [5min] Ask students to fill in-class survey:
   * What is one thing you took away from class today? 
 
 
