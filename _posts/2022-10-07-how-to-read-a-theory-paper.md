@@ -17,10 +17,10 @@ comments: false
 
 
 ## Pre-class work
-* Spend one hour reading and trying to get as much as you can out of the following paper:
+1. Spend one hour reading and trying to get as much as you can out of the following paper:
   * [Negative-Weight Single-Source Shortest Paths in Near-linear Time](https://arxiv.org/abs/2203.03456)
   * Note that the paper is far too long to read entirely in one hour; use strategies like those from the paper-reading guide to figure out where to focus your attention and try to get as much value as you can in the hour.  In particular, start with the introduction and try to understand what are the main contributions of the paper (both the high-level takeaways and the precise theorem statements), and then selectively delve into the technical sections as needed to improve your understanding and/or according to your interest.
-* Answer questions:
+2. Answer questions:
   * What is the high-level narrative for the paper?
   * How did you go about constructing this narrative?
   * Which parts of the paper did you feel like you understood? Why?
