@@ -78,19 +78,19 @@ Then come up with **systemic** interventions for every step of the cycle.
     <td style="white-space: normal;"><strong>Step 3:</strong> Effect of misconception on us externally</td>
     <td style="white-space: normal;">Failure to meet expectations </td>
     <td style="white-space: normal;">"I'm working really hard but not making meaningful progress on research or acquiring new skills."</td>
-    <td style="white-space: normal;">A mandatory course where soft research skills are emphasized and taught to students.</td>
+    <td style="white-space: normal;">A mandatory form students must fill (and submit) together with their advisors about their advisors' expectations of them for the first year. If the advisors' expectations are more realistic than those of the student, the student can adjust them. This will also increase transparency into potentially atypical advising practices.</td>
   </tr>
   <tr>
     <td style="white-space: normal;"><strong>Step 4:</strong> Effect on the culture, as a whole</td>
     <td style="white-space: normal;">Imposter phenomenon &amp; isolation </td>
     <td style="white-space: normal;">"Everyone else deserves to be here -- I'm the only one who does not have the inborn skills necessary to succeed. I don't want to be discovered as the only person undeserving to be here -- I won't ask for help / attend office hours."</td>
-    <td style="white-space: normal;">TODO</td>
+    <td style="white-space: normal;">Mandatory seminar (e.g. CS290) with built-in socialization time and explicit discussion of the Ph.D.'s hidden curriculum.</td>
   </tr>
   <tr>
     <td style="white-space: normal;"><strong>Step 5:</strong> Reinforcing initial misconceptions</td>
     <td style="white-space: normal;">Poor performance, reinforcing idea that science is done by lone geniuses </td>
     <td style="white-space: normal;">"I can't succeed without support. Since no one else seems to be struggling, I'm the one not cut out for the program." In other words, the myth of the lone genius must be true.</td>
-    <td style="white-space: normal;">TODO</td>
+    <td style="white-space: normal;"></td>
   </tr>
 </tbody>
 </table>
