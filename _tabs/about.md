@@ -11,6 +11,10 @@ order: 1
 This website contains the complete materials for Harvard's 2022-2023 offering of CS290, the **Seminar on Effective Research Practices & Academic Culture**.
 This seminar is **mandatory** for all entering Computer Science (CS) doctoral students.
 Although the seminar was designed for CS doctoral students in mind, we believe these materials can be useful to the **broader community**.
+To learn more about our approach to the course, please also refer to:
+* The **student-facing** 2022-2023 [course website](https://yanivyacoby.github.io/harvard-cs290) (the 2021-2022 course website can be found [here](https://yanivyacoby.github.io/harvard-cs290-2021-2022/))
+* Our paper about the course describing our **design philosophy, learning objective and evaluation** of the course: [Empowering First-Year Computer Science Ph.D. Students to Create a Culture that Values Community and Mental Health](https://arxiv.org/abs/2208.12650).
+
 If you do use our materials, please do reference our [student-facing course website](https://yanivyacoby.github.io/harvard-cs290) / these teaching materials, as well as [our paper](https://arxiv.org/abs/2208.12650):
 ```
 {% raw %}
@@ -26,12 +30,8 @@ If you do use our materials, please do reference our [student-facing course webs
   series = {SIGCSE 2023}
 } {% endraw %}
 ```
-Feel free to reach out to us if you have any questions, suggestions, or to let us know how you used these materials! We'd love to know.
 
-
-**Course Materials and Design:**
-* The **student-facing** 2022-2023 [course website](https://yanivyacoby.github.io/harvard-cs290) (the 2021-2022 course website can be found [here](https://yanivyacoby.github.io/harvard-cs290-2021-2022/))
-* Our paper about the course describing our **design philosophy, learning objective and evaluation** of the course: [Empowering First-Year Computer Science Ph.D. Students to Create a Culture that Values Community and Mental Health](https://arxiv.org/abs/2208.12650).
+Feel free to reach out to us if you have any questions, suggestions, or to let us know how you used these materials! **We'd love to know.**
 
 **Course Developers:**
 * [Yaniv Yacoby](https://yanivyacoby.github.io/)
