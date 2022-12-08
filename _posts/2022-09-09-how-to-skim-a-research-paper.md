@@ -29,8 +29,7 @@ comments: false
 
 ## In class: \[[slides](https://docs.google.com/presentation/d/1ozxDCtxtJazExXUSXMoHevyGc4uW_nogVjRc1n2qxHU/edit?usp=sharing)\]
 
-> This unit generally follows the structure of our guide on [how to read a research paper](https://ya
-nivyacoby.github.io/harvard-cs290/materials/how-to-read-a-research-paper/).
+> This unit generally follows the structure of our guide on [how to read a research paper](https://yanivyacoby.github.io/harvard-cs290/materials/how-to-read-a-research-paper/).
 {: .prompt-tip }
 
 1. [10min] Students socialize in groups and introduce themselves using the slides they made
