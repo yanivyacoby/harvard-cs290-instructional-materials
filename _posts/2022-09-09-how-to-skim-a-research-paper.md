@@ -22,7 +22,6 @@ comments: false
   * How many sentences did you highlight/underline? In which sections did you highlight the most sentences?
   * What was your strategy when reading the paper? For example, in what order did you read the sections? Which sections did you focus on most? What did you do when something didn't make sense?
   > **Insight:** This exercise helps students actively think about their paper-reading strategy, which they likely have not previously done. 
-  {: .prompt-tip }  
 2. Fill out a poll to schedule office hours
 
 
