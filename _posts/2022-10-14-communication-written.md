@@ -31,4 +31,5 @@ comments: false
 7. Since at this point in the semester, students are tired: lead small group-discussion on how things were going, what folks found surprising so far about their experience, how have their identities been challenged, etc.
 
 > **Insight:** Students found the senior Ph.D. students' written reports incredibly helpful! Students also learned that they need not only ask about the project -- they can also ask for feedback about the organization of the report, their communication style, which skills they should focus on developing next, etc.
+{: .prompt-tip }
 
