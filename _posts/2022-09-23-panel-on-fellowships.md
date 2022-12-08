@@ -29,6 +29,9 @@ comments: false
   * Why is it important to know the "codes" of your community?
   * What does the lecturer mean by "instability" vs. "stability"? 
 
+> **Insight:** Students found the lecture both engaging and polarizing, leading to great class discussion.
+{: .prompt-tip }
+
 
 ## In class
 1. [10min] Get food, sit next to folks you haven't met and introduce yourself using your slide
