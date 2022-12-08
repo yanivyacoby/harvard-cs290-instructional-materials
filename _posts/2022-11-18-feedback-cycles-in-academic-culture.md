@@ -39,7 +39,7 @@ comments: false
 4. Remainder of class: each group gets assigned one section on the [course materials](https://yanivyacoby.github.io/harvard-cs290/materials/) page. From the paragraph in that section, and from skimming the abstracts of the papers, students will construct their own feedback cycles following the template below.
 5. Re-group to discuss the students' responses
 6. Ask students to fill in-class survey:
-  * TODO
+  * What did you take away from class today?
 
 
 ## Understanding Feedback Cycles in Academic Culture
