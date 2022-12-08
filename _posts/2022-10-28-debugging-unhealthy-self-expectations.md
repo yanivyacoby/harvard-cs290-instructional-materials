@@ -42,13 +42,11 @@ comments: false
   * That many Ph.D. students in fact feel it is generally reflective of their development as researcher throughout the whole Ph.D. (as opposed to just the first year)
   * That it can help show us what we need / what to prioritize in each stage
   * That it can ultimately help us become better mentors in the future
-3. Remainder of class: panel with senior Ph.D. students about debugging unhealthy self-expectations.
+4. Remainder of class: panel with senior Ph.D. students about debugging unhealthy self-expectations.
   * Normalize common struggles throughout the Ph.D. by asking panelists to agree/disagree with statements by raising their hands (see below).
   > **Insight:** What we portray is oftentimes not reflective of what we actually feel.
-  {: .prompt-tip }
   * Lead panel discussion.
-
-4. Ask students to fill in-class survey:
+5. Ask students to fill in-class survey:
   * TODO
 
 
@@ -87,15 +85,18 @@ Example statements include:
 
 
 
-## Question Bank
-
+## Question Bank TODO
+* Raise your hand question
+  * Raise your hand if there has been a time in your PhD in which you felt like you were doing worse than everyone else around you?
+* Detecting and addressing unhealthy expectations
+  *  What is an effective way to erase a bad habit of a negative self-expectation. And how do we detect one?
+  *  
 * First year:
   * For many, the first year of the PhD feels slow -- it feels like you work hard, and relative to more experienced PhD students, not too much comes out. Raise your hand if you feel like you've had that experience.
   * Is there a particular situation in which you felt this most strongly? How did you overcome this?
 * Work/life balance:
   * For us to be productive and happy, it's important to have work/life balance. How do you maintaining this balance over the PhD so far?
 * Imposter phenomenon:
-  * Raise your hand if there has been a time in your PhD in which you felt like you were doing worse than everyone else around you?
   * Is there a specific situation you can share in which you felt this particularly strongly? How did you overcome it? 
 * Skills:
   * In what ways have you improved during the PhD? How have you changed?
