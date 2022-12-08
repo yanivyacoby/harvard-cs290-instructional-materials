@@ -35,11 +35,11 @@ comments: false
 3. [5min] Overview: how to do a literature search?
   * What is a literature search? What is it for? Why is it hard?
   * Present a step-by-step guide on [how to conduct a literature search](https://yanivyacoby.github.io/harvard-cs290/materials/how-to-do-a-literature-search)
-3. [10min] Small group activity #1: find the relevant keywords for a given research prompt (see example below)
+3. [15min] Small group activity #1: find the relevant keywords for a given research prompt (see example below)
 4. [10min] Regroup: what were the keywords found? How did you know they were relevant? what was hard about this? (probably: knowing which keywords to search for, verifying a paper is relevant)
 5. [5min] Presenting a guide to conduct a literature search
 6. [20min] Small-group activity #2: given a research prompt and a list of papers: which are relevant? and in what ways are they relevant (i.e. which category do they belong to)? (see example below)
-7. [15min] Regroup: go over list of papers and discuss
+7. [20min] Regroup: go over list of papers and discuss
 8. [5min] Go over paper tracking software (e.g. Zotero, the google scholar web extension), show example document keeping track of related work
 8. [5min] In-class survey
   * Describe a new strategy you learned (if any) for doing a literature search for each of the following components: finding papers, reading papers, and tracking papers.
