@@ -90,7 +90,7 @@ Then come up with **systemic** interventions for every step of the cycle.
     <td style="white-space: normal;"><strong>Step 5:</strong> Reinforcing initial misconceptions</td>
     <td style="white-space: normal;">Poor performance, reinforcing idea that science is done by lone geniuses </td>
     <td style="white-space: normal;">"I can't succeed without support. Since no one else seems to be struggling, I'm the one not cut out for the program." In other words, the myth of the lone genius must be true.</td>
-    <td style="white-space: normal;">A "service" requirement for the Ph.D. program, in which students in their second year must help organize some social events or serve as peer mentors (e.g. in <a href="https://intouch.seas.harvard.edu/">InTouch</a>).</td>
+    <td style="white-space: normal;">A "service" requirement for the Ph.D. program, in which students in their second year must help organize some social events or serve as peer mentors (e.g. in <a href="https://intouch.seas.harvard.edu/">InTouch</a>). This will create an institutional/systemic incentive for students to invest in their community.</td>
   </tr>
 </tbody>
 </table>
