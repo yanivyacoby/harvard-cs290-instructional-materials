@@ -29,13 +29,14 @@ comments: false
 3. Submit at least one question for this week's panel on debugging unhealthy self-expectations. 
 
 
-## In class \[[slides](https://docs.google.com/presentation/d/1wBfjEHBV3rQMMJvtM4iwnaJoo8Jmmqc1/edit?usp=sharing&ouid=113921352520656002922&rtpof=true&sd=true)\]
+## In class \[[slides](https://docs.google.com/presentation/d/1Gjat6uyWqzqed7Fp704BlNwYXM2OqLduGOInFbhtwLI/edit?usp=sharing)\]
 
 > **Note:** Only students are present during this class to create a safe space for students to ask questions about difficult topics. 
 {: .prompt-tip }
 
 1. [10min] Socialize
 2. [30min] Small-group discussion and recap about:
+  * Introduce the idea of "hidden curriculum" -- what kinds of barriers does it present?
   * What did you think of [How to make the most out of your Ph.D.](https://yanivyacoby.github.io/a-guide-to-your-phd/guide.html)? What are some actionabl takeaways? How can you support your peers?
   * What did you think of Beeler's model? Which stage are you in? What did you find valuable about it? And what did you criticize about it?
 3. [5min] Share what we find useful about Beeler's model:
@@ -43,11 +44,12 @@ comments: false
   * That it can help show us what we need / what to prioritize in each stage
   * That it can ultimately help us become better mentors in the future
 4. Remainder of class: panel with senior Ph.D. students about debugging unhealthy self-expectations.
-  * Normalize common struggles throughout the Ph.D. by asking panelists to agree/disagree with statements by raising their hands (see below).
+  * Lead panel discussion, alternating between Normalize common struggles by asking panelists to agree/disagree with statements by raising their hands (see below), and by asking questions from the question bank / from students.
   > **Insight:** What we portray is oftentimes not reflective of what we actually feel.
-  * Lead panel discussion.
 5. Ask students to fill in-class survey:
-  * TODO
+  * What is a hidden curriculum?
+  * Is there any part of the PhD's hidden curriculum that we discussed today that you haven't thought about before?
+  * Is there anything else you took away from class today?
 
 
 ## Example Statements for Panelists
@@ -111,7 +113,6 @@ Example statements include:
   * What are some good ways to set short term and long term goals during a semester? To feel like you're advancing in your Ph.D., what are some good milestones to set for a semester?
   * How do you create rewards for yourself when doing your long term research, or how do you associate positive validation with things as simple as running an experiment or reading a paper?
   * How do you deal with a couple weeks in which you are too busy or demotivated to do research work (eg. busy with courses)? How do you maintain communication with your advisor during these periods?
-  * How do I get around the feeling of not having anything to work on?
   * I find it difficult to express what I've thought about in the meetings with several professors. Do you have advice for speaking up in meetings?
 * **Identity:**
   * Difficult experiences are often difficult because they challenge our identities / how we think of ourselves. What was an experience you had that challenged your identity? How did you reconcile your old and new identities? 
