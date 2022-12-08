@@ -41,6 +41,7 @@ comments: false
   * What are you hoping to get out of your Ph.D. personally?
   * Is there anything you're worried about/intimidated by?
 
+> Going through each student's response to the survey before class helped instructors facilitate open discussion and set the tone for the rest of the semester. {: .prompt-tip }
 
 ## In class: \[[slides](https://docs.google.com/presentation/d/1Mal6OeGr5pl60iXjVjWIwG764Bn2E2JFxKAui0E4xFo/edit?usp=sharing)\]
 1. [20min] Students get food, sit down (4-5 students per table), write name tags, and introduce themselves to each other using the slides they created.
@@ -68,6 +69,7 @@ comments: false
 6. [3min] Ask students to answer in-class survey:
   * What's one thing you took away from today's class?
 7. [17min] Informal Q/A with current invited second-year students and course staff
+
 
 
 ## Example in-class student responses from Fall 2022
