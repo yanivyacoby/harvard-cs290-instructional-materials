@@ -31,13 +31,41 @@ comments: false
 2. [20min] Discussion of pre-class reading:
   * Were you surprised that facultly experience such high rates of importer phenomenon?
   * What were your takeaways?
-  * TODO
 3. Remainder of class: panel discussion
 4. [5min] Answer in-class survey:
-  * TODO
+  * What is one thing you took away from class today? 
 
 
 ## Question Bank
+* Expectations
+  * What are your expectations for students in the first year?
+  * Do you think of the PhD as a job? Why or why not? 
+  * What makes a successful Ph.D.? How do we get there? 
+  * How do you gauge whether your student is moving at a reasonable pace? 
+* Advice about research
+  *  What are your tips for developing greater research maturity and ability to lead research projects?
+  *  How do you start collaborations with colleagues on spontaneous research topics of interest? 
+  *  How do you know when you should give up on a project?
+  *  At what point do you feel a student has accomplished/done enough to graduate? How does this factor in with the student's personal goals (going to industry or academia)? 
+* Student advising styles
+  * How do you connect with students who you suspect might be experiencing imposter syndrome? 
+  * What kind of relationship do you expect with a student you are mentoring? How do you approach topics on career advice, identity issues, day-to-day issues? 
+  * How have/would you approach conversations where your student is wondering about dropping out?
+  * What is an expectation that your advisor had (or didn't have) of you when you were a Ph.D. student that impacted the way you advise your students now?
+* Life after the PhD
+  * When you were a graduate student, were you worried about your academic job prospects?
+  * What is the most important thing to take away from your time as a PhD student?
+  * How did your doubts about yourself during your PhD change when you were a faculty?
+  * How have you navigated the pressure or tension between growing in your career as a faculty member at Harvard and trying to correct some of the systemic issues in academia (insensitivity, lack of respect for minorities, bias in publication selections, etc.)?
+  * What is a key difference that you feel to be the most significant and influential to your life between being a PhD student and being a faculty member?
+  * Did you consider going to industry instead of staying in academia? Why or why not? What made you ultimately decide to stay in academia?
+  *  How do you balance research and life? 
+* Faculty experiences during PhD
+  * Do you/did you use social media/academic Twitter? Why or why not? 
+  * What is one thing you wish you knew when you started your Ph.D.?
+  * If you were a first-gen, lower income student, how did you justify taking a path that seems so difficult and financially risky, especially when the tech industry seems so stable and lucrative? How did you justify this path with all the other financial and personal obligations you might have?
+  * What, if anything, do you regret most during your time as a Ph.D. student?
+  * What are unwritten rules about the PhD that you wish didn't exist? 
+  * How do you find the pressures affecting you as a PhD student are different than those of our generation? How are they the same?
 
-* TODO.
 
