@@ -39,9 +39,11 @@ comments: false
   * What did you study in undergrad/master's?
   * What are you hoping to get out of your Ph.D. professionally?
   * What are you hoping to get out of your Ph.D. personally?
-  * Is there anything you're worried about/intimidated by?
+  * Is there anything you're worried about/intimidated by as you begin your Ph.D.?
 
-> Going through each student's response to the survey before class helped instructors facilitate open discussion and set the tone for the rest of the semester. {: .prompt-tip }
+> **Note:** We noticed that the pre-class readings and reflection helped students answer the last question (about their worries) more opnely and honestly. Their responses enabled us to meaningfully shape class-discussion about these worries (see Q1 below) and set inclusive and welcoming community standards for the remainder of the semester.
+{: .prompt-tip }
+
 
 ## In class: \[[slides](https://docs.google.com/presentation/d/1Mal6OeGr5pl60iXjVjWIwG764Bn2E2JFxKAui0E4xFo/edit?usp=sharing)\]
 1. [20min] Students get food, sit down (4-5 students per table), write name tags, and introduce themselves to each other using the slides they created.
