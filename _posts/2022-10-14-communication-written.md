@@ -13,7 +13,7 @@ comments: false
 * Promote a **growth-mindset**: this is a skill that is **learned**, not inborn.
 * Debunk **misconceptions** about what constitute "good" communication practices. 
 * Teach students how to **break-down** written communication into a **step-by-step** process -- see guide on [how to communicate about weekly progress with your collaborators](https://yanivyacoby.github.io/harvard-cs290/materials/communication-in-collaborative-environments).
-* To encourage students to ask for feedback for general (non-project specific) feedback, such as how to improve their communication practices, their paper-reading strategies, to be a more support labmate, etc.
+* To encourage students to ask for **general (non-project specific) feedback**, such as how to improve their communication practices, their paper-reading strategies, to be a more support labmate, etc.
 {: .prompt-info }
 
 
