@@ -9,7 +9,7 @@ comments: false
 ---
 
 > **Objectives:**
-* Introduce concept of **systemic** issue, as an issue stemming from economic, cultural, legal, etc. incentives.
+* Introduce concept of **systemic** issue, as an issue stemming from economic, cultural, legal, etc. structures and incentives.
 * Re-motivate the purpose of the seminar so far as a systemic **intervention** to the problem of **hidden curriculum** in doctoral programs.
 * Demonstrate to students how positive feedback cycles in academic **reinforce** problematic misconceptions. This ultimately impedes us as a community from performing rigorous, inclusive and useful science, as well as individually in our professional growth, by contributing to unrealistic self-expectations (and therefore poor mental health), hindering from building supportive academic communities.
 * Brainstorm **interventions** to break such cycles
