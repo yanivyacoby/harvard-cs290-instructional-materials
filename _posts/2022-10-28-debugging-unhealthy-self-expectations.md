@@ -9,7 +9,7 @@ comments: false
 ---
 
 > **Objectives:**
-* Demonstrate to the students (by example) that it is **normal** to experience challenges in the PhD, and that it's a good idea to talk about these challenges with their peers.
+* Demonstrate to the students (by example) that it is **normal** to experience challenges in the Ph.D., and that it's a good idea to talk about these challenges with their peers.
 * Help students distinguish between "good" challenges and "unhelpful" challenges through the lens of self-expectations.
 * Introduce the term **hidden curriculum** to describe the implicit expectations surrounding how docotral students should think, talk, look like, and what they should value. Connect this to previous soft skill building (i.e. soft skills are an important component of the hidden curriculum of the Ph.D.).
 * Introduce a model for Ph.D. student development and emphasize that expectations are a function of each students' **stage** in the program.
@@ -17,9 +17,9 @@ comments: false
 
 
 ## Pre-class work
-1. Read [How to make the most of your PhD](https://yanivyacoby.github.io/a-guide-to-your-phd/guide.html). Answer: 
+1. Read [How to make the most of your Ph.D.](https://yanivyacoby.github.io/a-guide-to-your-phd/guide.html). Answer: 
   * Is there anything that you've found expecting from yourself in your first year that wasn't on this list?
-  * Has this expectation positively or negatively impacted your PhD experience so far? 
+  * Has this expectation positively or negatively impacted your Ph.D. experience so far? 
   * What are concrete ways in which you plan to support your peers through the end of the semester?
   * Is there anything you took away from this guide?
 2. Read: "Graduate Student Adjustment to Academic Life A Four-Stage Framework" (Note: the words competent/incompetent in the article are technical jargon from the learning and cognition literature. As such, you should not interpret them using their colloquial meanings; we instead encourage you to think of these terms more as novice/expert).
@@ -36,7 +36,7 @@ comments: false
 
 1. [10min] Socialize
 2. [30min] Small-group discussion and recap about:
-  * What did you think of [How to make the most out of your PhD](https://yanivyacoby.github.io/a-guide-to-your-phd/guide.html)? What are some actionabl takeaways? How can you support your peers?
+  * What did you think of [How to make the most out of your Ph.D.](https://yanivyacoby.github.io/a-guide-to-your-phd/guide.html)? What are some actionabl takeaways? How can you support your peers?
   * What did you think of Beeler's model? Which stage are you in? What did you find valuable about it? And what did you criticize about it?
 3. [5min] Share what we find useful about Beeler's model:
   * That many Ph.D. students in fact feel it is generally reflective of their development as researcher throughout the whole Ph.D. (as opposed to just the first year)
@@ -53,7 +53,8 @@ comments: false
 ## Example Statements for Panelists
 
 In class, we ask the panelists to raise their hands if they relate to statements describing common (but seldom discussed) challenges of the Ph.D.
-We find this allows panelists to lead by example and create a safe space for students to ask difficult questions that are on their mind.
+We find this allows panelists to **lead by example** -- i.e. to show that struggle is normal and nothing to be ashamed of. This helps create a **safe space** for students to ask difficult questions that are on their mind.
+It is okay if not all panelists raise their hands; this could be a good place for discussion.
 
 > **Note:** Not all panelists will be comfortable being so open about their experience. As such, it is vital to check with them a priori. It is especially important to take care asking panelists from minoritized backgrounds and identities to comment on statements that align with negative societal stereotypes. We found it helpful to have a meeting with the panelists prior to the session and lead an open discussion to best understand everyone's boundaries. 
 {: .prompt-danger }
@@ -86,42 +87,37 @@ Example statements include:
 
 
 ## Question Bank
-* "Raise your hand" questions to the panel. 
-  > **Insight:** the goal of these questions is to demonstrate that the panelists relate to many of the same struggles/expectations. It is okay if not all panelists raise their hands; this could be a good place for discussion. 
-  * Raise your hand if there has been a time in your PhD in which you felt like you were doing worse than everyone else around you?
-  * For many, the first year of the PhD feels slow -- it feels like you work hard, and relative to more experienced PhD students, not too much comes out. Raise your hand if you feel like you've had that experience.
-  * Difficult experiences are often difficult because they challenge our identities / how we think of ourselves. Raise your hand if you feel like you've had such an experience during the PhD?
-* Detecting and addressing unhealthy expectations
+* **Detecting and addressing unhealthy expectations:**
   *  What is an effective way to erase a bad habit of a negative self-expectation and how do we detect one?
   *  What is a struggle around expectations that you still face?
   *  How do we check if we meet our advisor's expectations? The guide suggests that we directly ask them, but sometimes people are reluctant to give negative feedback in person.
   * I was expecting to do more "great" research work by this point. Is it an unhealthy self-expectation?
   * If we need to lower expectations too much for them to be unhealthy, should we even keep going? If we need to adjust our expectations too much, does it mean that we're not the right people to do this?
   * What are some concrete things you have done to build healthy expectations?
-* First year:
-  * Is there a particular situation in which the PhD felt very slow? How did you overcome this?
+* **First year experience:**
+  * Is there a particular situation in which the Ph.D. felt very slow? How did you overcome this?
   * Is it expected by most advisors that I should get papers published by the end of the first year?
-* Time management:
-  * For us to be productive and happy, it's important to have work/life balance. How do you maintaining this balance over the PhD so far?
+* **Time management:**
+  * For us to be productive and happy, it's important to have work/life balance. How do you maintaining this balance over the Ph.D. so far?
   * What are some ways of getting feedback on time management, especially with course work? How much time are we expected to spend on courses? How much time does an average student spend on it?
   * Sometimes I feel that I am just doing "busy work". How do I know if the work I do is necessary or worth the time?
   *  What type of daily schedule do you follow and how does it keep you productive and happy?
   *  How do you manage guilt for not doing work (e.g. taking time to relax/do a hobby instead)?
-* Imposter phenomenon:
+* **Imposter phenomenon:**
   * Is there a specific situation you can share in which you felt imposter phenomenon strongly? How did you overcome it? 
   * While I know I should not compare myself to everyone surrounding me, I don't know how not to. Do you still find yourself doing this? How do you either prevent it or minimize the effect it has on you? 
-* Skills and self-management:
-  * In what ways have you improved during the PhD? How have you changed?
-  * What are some good ways to set short term and long term goals during a semester? To feel like you're advancing in your PhD, what are some good milestones to set for a semester?
+* **Skills and self-management:**
+  * In what ways have you improved during the Ph.D.? How have you changed?
+  * What are some good ways to set short term and long term goals during a semester? To feel like you're advancing in your Ph.D., what are some good milestones to set for a semester?
   * How do you create rewards for yourself when doing your long term research, or how do you associate positive validation with things as simple as running an experiment or reading a paper?
   * How do you deal with a couple weeks in which you are too busy or demotivated to do research work (eg. busy with courses)? How do you maintain communication with your advisor during these periods?
   * How do I get around the feeling of not having anything to work on?
   * I find it difficult to express what I've thought about in the meetings with several professors. Do you have advice for speaking up in meetings?
-* Identity:
-  * What was an experience you had that challenged your identity? How did you reconcile your old and new identities? 
+* ** Identity:**
+  * Difficult experiences are often difficult because they challenge our identities / how we think of ourselves. What was an experience you had that challenged your identity? How did you reconcile your old and new identities? 
   * How do you deal with the self-imposed pressure of wanting to make worthwhile scientific contributions despite being in either a fast-paced field like ML/NLP or in a field that's new to you whose "mainstream" contributions and methods you don't fully understand or agree with?
   * What do you do when you set expectations for yourself that seem toxic to everyone around you but that you are okay with? Is it worth it to constantly explain yourself and your rationale?  
-* Community:
-  * What is your community? How did you find it? What role does it have in your PhD experience?
-* Positive outlook:
+* **Community:**
+  * What is your community? How did you find it? What role does it have in your Ph.D. experience?
+* **Positive outlook:**
   * What's made grad school worth it for you?
