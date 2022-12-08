@@ -29,11 +29,11 @@ comments: false
 
 
 ## In class: \[[slides](https://docs.google.com/presentation/d/1PtFZSAdrTzb7f9K54DmQFiFVm8CjJ9ZUsr0__OvIx-c/edit?usp=sharing)\]
-* Normalize struggle:
-  * It is common for people approaching theory for the first time to freeze, skip it, or get bogged down by details (which may be confusing and difficult) and therefore to miss the bigger picture
-Being intimidated by theory is also very common – there are stereotypes for who "looks like" they would be good at theory, and it's something we need to address as a community.
-Understanding theory papers is not something that only "special" people can do. With guidance and deliberate practice, theory papers can actually become accessible to everyone, and today, we're going to give you both guidance and practice to get you started.
-* Topics:
+1. Normalize struggle:
+  * It is common for people approaching theory for the first time to freeze, skip it, or get bogged down by details (which may be confusing and difficult) and therefore to miss the bigger picture.
+  * Being intimidated by theory is also very common – there are stereotypes for who "looks like" they would be good at theory, and it's something we need to address as a community.
+  * Understanding theory papers is not something that only "special" people can do. With guidance and deliberate practice, theory papers can actually become accessible to everyone, and today, we're going to give you both guidance and practice to get you started.
+2. Topics:
   * How do you connect the technical (and often intimidating) statement of a theorem with the implications of that theorem? 
   * Oftentimes theory papers include definitions of formal or abstract objects (which can be difficult to understand): how do you gain intuition about these objects' properties? 
   * How do you construct a general narrative of a very proofy theory paper without having to understand all of the proofs in detail? 
