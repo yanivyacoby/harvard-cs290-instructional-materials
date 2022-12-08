@@ -18,7 +18,8 @@ comments: false
 
 ## Pre-class work
 
-1. Watch [The Pursuit of Collective Intelligence](https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01d4c974-d005-434a-8544-a8cf0179150f) by Professor Radhika Nagpal. We encourage you all to watch this talk in groups! Answer:
+1. Watch [The Pursuit of Collective Intelligence](https://cornell.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01d4c974-d005-434a-8544-a8cf0179150f) by Professor Radhika Nagpal. We encourage you all to watch this talk in groups!
+2. Answer:
   * What are the "rules" of academic culture mentioned in the talk? What are the criticism of these rules? 
   * Are there any other such "rules" you've observed or experienced in your Ph.D. experience so far? 
   * What else did you take away from the talk?
@@ -49,6 +50,7 @@ comments: false
 Go to the materials page of the course website. Read your assigned section. You may find it helpful to quickly skim through abstracts / titles of the listed papers.
 Create a positive feedback cycle following the below template.
 Please pay particular attention to the way the cycle reinforces societal misconceptions.
+Then come up with **systemic** interventions for every step of the cycle.
 
 <table style="table-layout: fixed; width: 100%">
 <thead>
