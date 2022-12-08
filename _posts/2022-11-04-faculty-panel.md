@@ -29,7 +29,8 @@ comments: false
 ## In class 
 1. [10min] Socialize
 2. [20min] Discussion of pre-class reading:
-  * Were you surprised that facultly experience such high rates of importer phenomenon?
+  * Were you surprised that faculty experience such high rates of importer phenomenon?
+  * The paper argued that faculty's identities (e.g. race, gender, etc.) impacted how they dealt and experienced imposter phenomenon -- do you agree/disagree with their characterization?
   * What were your takeaways?
 3. Remainder of class: panel discussion
 4. [5min] Answer in-class survey:
