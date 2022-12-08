@@ -85,24 +85,42 @@ Example statements include:
 
 
 
-## Question Bank TODO
-* Raise your hand question
+## Question Bank
+* "Raise your hand" questions to the panel. 
+  > The goal of these questions is to demonstrate that the panelists relate to many of the same struggles/expectations. It is okay if not all panelists raise their hands; this could be a good place for discussion. 
   * Raise your hand if there has been a time in your PhD in which you felt like you were doing worse than everyone else around you?
-* Detecting and addressing unhealthy expectations
-  *  What is an effective way to erase a bad habit of a negative self-expectation. And how do we detect one?
-  *  
-* First year:
   * For many, the first year of the PhD feels slow -- it feels like you work hard, and relative to more experienced PhD students, not too much comes out. Raise your hand if you feel like you've had that experience.
-  * Is there a particular situation in which you felt this most strongly? How did you overcome this?
-* Work/life balance:
-  * For us to be productive and happy, it's important to have work/life balance. How do you maintaining this balance over the PhD so far?
-* Imposter phenomenon:
-  * Is there a specific situation you can share in which you felt this particularly strongly? How did you overcome it? 
-* Skills:
-  * In what ways have you improved during the PhD? How have you changed?
-* Identity:
   * Difficult experiences are often difficult because they challenge our identities / how we think of ourselves. Raise your hand if you feel like you've had such an experience during the PhD?
-  * What was the experience? How did you reconcile your old and new identities? 
+* Detecting and addressing unhealthy expectations
+  *  What is an effective way to erase a bad habit of a negative self-expectation and how do we detect one?
+  *  What is a struggle around expectations that you still face?
+  *  How do we check if we meet our advisor's expectations? The guide suggests that we directly ask them, but sometimes people are reluctant to give negative feedback in person.
+  * I was expecting to do more "great" research work by this point. Is it an unhealthy self-expectation?
+  * If we need to lower expectations too much for them to be unhealthy, should we even keep going? If we need to adjust our expectations too much, does it mean that we're not the right people to do this?
+  * What are some concrete things you have done to build healthy expectations?
+* First year:
+  * Is there a particular situation in which the PhD felt very slow? How did you overcome this?
+  * Is it expected by most advisors that I should get papers published by the end of the first year?
+* Time management:
+  * For us to be productive and happy, it's important to have work/life balance. How do you maintaining this balance over the PhD so far?
+  * What are some ways of getting feedback on time management, especially with course work? How much time are we expected to spend on courses? How much time does an average student spend on it?
+  * Sometimes I feel that I am just doing "busy work". How do I know if the work I do is necessary or worth the time?
+  *  What type of daily schedule do you follow and how does it keep you productive and happy?
+  *  How do you manage guilt for not doing work (e.g. taking time to relax/do a hobby instead)?
+* Imposter phenomenon:
+  * Is there a specific situation you can share in which you felt imposter phenomenon strongly? How did you overcome it? 
+  * While I know I should not compare myself to everyone surrounding me, I don't know how not to. Do you still find yourself doing this? How do you either prevent it or minimize the effect it has on you? 
+* Skills and self-management:
+  * In what ways have you improved during the PhD? How have you changed?
+  * What are some good ways to set short term and long term goals during a semester? To feel like you're advancing in your PhD, what are some good milestones to set for a semester?
+  * How do you create rewards for yourself when doing your long term research, or how do you associate positive validation with things as simple as running an experiment or reading a paper?
+  * How do you deal with a couple weeks in which you are too busy or demotivated to do research work (eg. busy with courses)? How do you maintain communication with your advisor during these periods?
+  * How do I get around the feeling of not having anything to work on?
+  * I find it difficult to express what I've thought about in the meetings with several professors. Do you have advice for speaking up in meetings?
+* Identity:
+  * What was an experience you had that challenged your identity? How did you reconcile your old and new identities? 
+  * How do you deal with the self-imposed pressure of wanting to make worthwhile scientific contributions despite being in either a fast-paced field like ML/NLP or in a field that's new to you whose "mainstream" contributions and methods you don't fully understand or agree with?
+  * What do you do when you set expectations for yourself that seem toxic to everyone around you but that you are okay with? Is it worth it to constantly explain yourself and your rationale?  
 * Community:
   * What is your community? How did you find it? What role does it have in your PhD experience?
 * Positive outlook:
