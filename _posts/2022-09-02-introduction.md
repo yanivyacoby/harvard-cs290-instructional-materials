@@ -41,7 +41,7 @@ comments: false
   * What are you hoping to get out of your Ph.D. personally?
   * Is there anything you're worried about/intimidated by as you begin your Ph.D.?
 
-> **Note:** We noticed that the pre-class readings and reflection helped students answer the last question (about their worries) more opnely and honestly. Their responses enabled us to meaningfully shape class-discussion about these worries (see Q1 below) and set inclusive and welcoming community standards for the remainder of the semester.
+> **Note:** We noticed that the pre-class readings and reflection helped students answer the last question (about their worries) more openly and honestly. Their responses enabled us to meaningfully shape class-discussion about these worries (see Q1 below) and set inclusive and welcoming community standards for the remainder of the semester.
 {: .prompt-tip }
 
 
