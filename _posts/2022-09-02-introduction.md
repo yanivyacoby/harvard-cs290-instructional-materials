@@ -73,7 +73,7 @@ comments: false
 
 ## Example in-class student responses from Fall 2022
 
-In the pre-class work for the first class, there were many themes that popped up over and over again -- worries that seemed to be on everyone's mind. It's important for us to come together as a community to discuss what are the expectations/assumption implied by each of these worries so that we can set more realistic expectations for ourselves, support each other, and ultimately enjoy the Ph.D. Below are the statements (worries), as well as the expectations implied by the statements you all came up with in class:
+In the pre-class work for the first class, there were many **themes** that popped up over and over again -- **worries** that seemed to be on **everyone's minds**. It's important for us to come together as a **community** to discuss what are the **expectations/assumption** implied by each of these worries so that we can set more **realistic expectations** for ourselves, **support** each other, and ultimately **enjoy** the Ph.D. Below are the statements (worries), as well as the expectations implied by the statements you all came up with in class:
 
 
 <table style="table-layout: fixed; width: 100%">
