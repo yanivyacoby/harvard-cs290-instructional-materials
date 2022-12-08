@@ -47,7 +47,7 @@ comments: false
 2. [3min] Course staff introduces themselves (using the slides)
 3. [7min] Introduction
   * Course overview: roadmap of the course, course policies and grading
-  * Present themes from the pre-class survey's question about worries.
+  * Present themes from the pre-class survey question "Is there anything you’re worried about/intimidated by?".
   > **Insight:** Most students, while coming from diverse backgrounds, share similar worries about the program.
   {: .prompt-tip }
 4. [Discussion + regroup] Break into small groups for discussion of the following questions:
