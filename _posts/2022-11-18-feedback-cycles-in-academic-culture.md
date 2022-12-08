@@ -72,7 +72,7 @@ Then come up with **systemic** interventions for every step of the cycle.
     <td style="white-space: normal;"><strong>Step 2:</strong> Effect of misconception on us internally</td>
     <td style="white-space: normal;">Unrealistic expectations &amp; ineffective research practices</td>
     <td style="white-space: normal;">"If I deserve to be here, I should be able to figure everything out alone."</td>
-    <td style="white-space: normal;">A requirement that students must attend at least one session at the <a href"https://academicresourcecenter.harvard.edu/">Academic Resource Center</a> throughout their first semester to discuss time-management and self-organization.</td>
+    <td style="white-space: normal;">A requirement that students must attend at least one session at the <a href="https://academicresourcecenter.harvard.edu/">Academic Resource Center</a> throughout their first semester to discuss time-management and self-organization.</td>
   </tr>
   <tr>
     <td style="white-space: normal;"><strong>Step 3:</strong> Effect of misconception on us externally</td>
@@ -90,7 +90,7 @@ Then come up with **systemic** interventions for every step of the cycle.
     <td style="white-space: normal;"><strong>Step 5:</strong> Reinforcing initial misconceptions</td>
     <td style="white-space: normal;">Poor performance, reinforcing idea that science is done by lone geniuses </td>
     <td style="white-space: normal;">"I can't succeed without support. Since no one else seems to be struggling, I'm the one not cut out for the program." In other words, the myth of the lone genius must be true.</td>
-    <td style="white-space: normal;">A "service" requirement for the Ph.D. program, in which students in their second year must help organize some social events or serve as peer mentors (e.g. in <a href="https://intouch.seas.harvard.edu/">InTouch</a>)).</td>
+    <td style="white-space: normal;">A "service" requirement for the Ph.D. program, in which students in their second year must help organize some social events or serve as peer mentors (e.g. in <a href="https://intouch.seas.harvard.edu/">InTouch</a>).</td>
   </tr>
 </tbody>
 </table>
