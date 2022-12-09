@@ -2,7 +2,7 @@
 title: Panel on fellowships
 author: [john_girash, yaniv_yacoby, eura_shin]
 date: 2022-09-23 09:00:00 -0400
-tags: [skill-building, professional-development]
+tags: [skill-building, professional-development, writing]
 math: false
 mermaid: false
 comments: false
