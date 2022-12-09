@@ -4,7 +4,11 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-> **Note:** This website currently only contains the materials for the fall 2022 offering of the seminar. We will update it with the spring materials in the summer of 2023.
+> **Note:** This website currently only contains the materials for the fall 2022 offering of the seminar. We will update it with the spring materials in the summer of 2023. While the fall semester primarely focused on skill-building, the spring semester will include the following topics:
+* Mental health in academia
+* Diversity and leadership in tech
+* Power dynamics in scientific communities and research in context
+* Communication to a general audience
 {: .prompt-warning }
 
 
