@@ -59,3 +59,6 @@ Classes generally followed this structure:
 5. A brief survey on today's session
 6. Some time at the end for socializing
 
+**Acknowledgments:** There are a number of people we would like to acknowledge for helpful discussions and insights throughout the development of this offering of the course: [Barbara Grosz](https://grosz.seas.harvard.edu/), [David Brooks](http://www.eecs.harvard.edu/~dbrooks/), [Finale Doshi-Velez](https://finale.seas.harvard.edu/), [Isaac Lage](https://isaaclage.github.io/), [Krzysztof Gajos](http://www.eecs.harvard.edu/~kgajos/), [Lillian Pentecost](https://lpentecost.github.io/cv/), [Margo Seltzer](https://www.seltzer.com/margo/), Sam Hsia, [Udit Gupta](https://ugupta.com/), [Weiwei Pan](https://onefishy.github.io/), [Zana Buçinca](https://zbucinca.owlstown.net/).
+
+This course draws on: Justine Sherry's seminar [Reading on Research](https://docs.google.com/document/d/1L610weeNT_KDe6gPgjHjuN4rBSnsI0NfwE2RZCLuKgE/edit), Weiwei Pan's seminar [Diversity, Inclusion and Leadership in Tech](https://onefishy.github.io/DIL_in_tech/), Yaniv Yacoby's workshop [How to make the most out of your PhD](https://yanivyacoby.github.io/a-guide-to-your-phd/).
