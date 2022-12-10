@@ -37,6 +37,9 @@ If you do use our materials, please do reference our [student-facing course webs
 > Feel free to reach out to us if you have any questions, suggestions, or to let us know how you used these materials! **We'd love to know.**
 {: .prompt-tip }
 
+
+> The below figure (taken from our [our paper](https://arxiv.org/abs/2208.12650)) motivates CS290 as an **intervention** to break **negative feedback cycles** in academic culture.
+{: .prompt-tip }
 <img src="/assets/cycle.svg" alt="The cycle of isolation"/>
 
 **Course Developers:**
