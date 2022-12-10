@@ -1,2 +1,2 @@
 serve:
-	bundle exec jekyll s --incremental
+	rm -rf _site && bundle exec jekyll s --incremental
