@@ -65,7 +65,7 @@ Then come up with **systemic** interventions for every step of the cycle.
   <tr>
     <td style="white-space: normal;"><strong>Step 1:</strong> Societal misconceptions about research/science/Ph.D.</td>
     <td style="white-space: normal;">The myth of the lone genius</td>
-    <td style="white-space: normal;">"Good science is done by lone geniuses."</td>
+    <td style="white-space: normal;">"Good science is done by lone geniuses who have brilliant breakthroughs."</td>
     <td style="white-space: normal;">A mandatory workshop students attend that highlights the hidden curricula of Ph.D. programs.</td>
   </tr>
   <tr>
@@ -83,7 +83,7 @@ Then come up with **systemic** interventions for every step of the cycle.
   <tr>
     <td style="white-space: normal;"><strong>Step 4:</strong> Effect on the culture, as a whole</td>
     <td style="white-space: normal;">Imposter phenomenon &amp; isolation </td>
-    <td style="white-space: normal;">"Everyone else deserves to be here -- I'm the only one who does not have the inborn skills necessary to succeed. I don't want to be discovered as the only person undeserving to be here -- I won't ask for help / attend office hours."</td>
+    <td style="white-space: normal;">"Everyone else can do good science alone. I can't succeed without support, so I’m not cut out for this program" (i.e. only lone geniuses succeed, and I’m not a lone genius).</td>
     <td style="white-space: normal;">Mandatory seminar (e.g. CS290) with built-in socialization time and explicit discussion of the Ph.D.'s hidden curriculum.</td>
   </tr>
   <tr>
