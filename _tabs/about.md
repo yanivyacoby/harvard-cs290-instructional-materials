@@ -53,3 +53,4 @@ Classes generally followed this structure:
 5. A brief survey on today's session
 6. Some time at the end for socializing
 
+<img src = "/assets/cycle.svg" alt="The cycle of isolation"/>
