@@ -34,7 +34,10 @@ If you do use our materials, please do reference our [student-facing course webs
 } {% endraw %}
 ```
 
-Feel free to reach out to us if you have any questions, suggestions, or to let us know how you used these materials! **We'd love to know.**
+> Feel free to reach out to us if you have any questions, suggestions, or to let us know how you used these materials! **We'd love to know.**
+{: .prompt-tip }
+
+<img src="/assets/cycle.svg" alt="The cycle of isolation"/>
 
 **Course Developers:**
 * [Yaniv Yacoby](https://yanivyacoby.github.io/)
@@ -53,4 +56,3 @@ Classes generally followed this structure:
 5. A brief survey on today's session
 6. Some time at the end for socializing
 
-<img src = "/assets/cycle.svg" alt="The cycle of isolation"/>
