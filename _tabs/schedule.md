@@ -1,6 +1,6 @@
 ---
 layout: archives
 icon: fas fa-archive
-order: 2
+order: 1
 title: Schedule
 ---

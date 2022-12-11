@@ -10,8 +10,8 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
+  home: Home
   about: About  
-  home: Modules
   archives: Archives  
   tags: Tags
 
