@@ -22,16 +22,19 @@ To learn more about our approach to the course, please also refer to:
 If you do use our materials, please do reference our [student-facing course website](https://yanivyacoby.github.io/harvard-cs290) / these teaching materials, as well as [our paper](https://arxiv.org/abs/2208.12650):
 ```
 {% raw %}
-@inproceedings{Yacoby2023,
+@inproceedings{cs290,
   author = {{Yacoby}, Yaniv and {Girash}, John and {Parkes}, David C.},
   title = "{Empowering First-Year Computer Science Ph.D. Students to Create a Culture that Values Community and Mental Health}",
   year = {2023},
+  isbn = {978145039431},
   publisher = {Association for Computing Machinery},
-  url = {https://arxiv.org/abs/2208.12650},
-  booktitle = {Proceedings of the 54rd ACM Technical Symposium on Computer Science Education V. 1},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3545945.3569751},
+  doi = {10.1145/3545945.3569751},
+  booktitle = {Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1},
   keywords = {mental health in doctoral programs, social isolation in doctoral programs, self-regulation, self-efficacy, imposter phenomenon},
   location = {Toronto, ON, Canada},
-  series = {SIGCSE 2023}
+  series = {SIGCSE 2023}  
 } {% endraw %}
 ```
 
