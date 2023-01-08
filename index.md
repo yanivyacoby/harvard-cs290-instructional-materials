@@ -42,7 +42,7 @@ If you do use our materials, please do reference our [student-facing course webs
 {: .prompt-tip }
 
 
-> The below figure (taken from our [our paper](https://arxiv.org/abs/2208.12650)) motivates CS290 as an **intervention** to break **negative feedback cycles** in academic culture.
+> The below figure (taken from [our paper](https://arxiv.org/abs/2208.12650)) motivates CS290 as an **intervention** to break **negative feedback cycles** in academic culture.
 {: .prompt-info }
 <img src="/assets/cycle.svg" alt="The cycle of isolation"/>
 
