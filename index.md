@@ -5,7 +5,7 @@ title: The 2022-2023 Teaching Materials for CS290
 ---
 
 
-> **Note:** This website currently only contains the materials for the fall 2022 offering of the seminar. We will update it with the spring materials in the summer of 2023. While the fall semester primarely focused on skill-building, the spring semester will focus more on:
+> **Note:** This website currently only contains the materials for the fall 2022 offering of the seminar. We will update it with the spring materials by the summer of 2023. While the fall semester primarely focused on skill-building, the spring semester will focus more on:
 * Mental health in academia
 * Diversity and leadership in tech
 * Power dynamics in scientific communities and research in context
