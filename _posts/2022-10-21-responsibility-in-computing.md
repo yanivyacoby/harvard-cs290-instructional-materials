@@ -9,7 +9,6 @@ comments: false
 ---
 
 > This unit was developed in collaboration with Harvard's [Embedded EthiCS](https://embeddedethics.seas.harvard.edu) initiative. This material draws on [Ellie Lasater-Guttmann’s module in CS 181, Spring 2022](https://embeddedethics.seas.harvard.edu/cs-181-2022-spring). In a previous iteration of CS290, the module topic was quite different. You can find that module’s repository entry [here](https://embeddedethics.seas.harvard.edu/cs-290-2022-spring). A challenge we were trying to address in this iteration was to make ethical content relevant to all students in the class, including both those interested in applied computer science, and those interested in computational theory.
-
 {: .prompt-warning }
 
 > **Objectives:**
@@ -40,17 +39,17 @@ comments: false
 {: .prompt-tip }
 
 ## In class \[[slides](https://docs.google.com/presentation/d/1wBfjEHBV3rQMMJvtM4iwnaJoo8Jmmqc1/edit?usp=sharing&ouid=113921352520656002922&rtpof=true&sd=true)\]
-1. Ask students if they shared last week's written report and how it went.
-2. Course head recaps previous session (5 min)
-3. Introduction to Embedded EthiCS (5 min)
-4. The concept of moral responsibility (10 min)
-5. Distinction between backward-looking responsibility (holding accountable) and forward-looking responsibility (taking responsibility) (10 min)
-5. Illustrations of complexities in attributing backward-looking responsibility and determining who has forward-looking responsibilities in complex causal chains (10 min)
-7. Small group activity (30 min):
-  a. Students given a case: an autonomous vehicle has hit and killed a pedestrian. They are also given an incomplete causal chain that runs from the vehicle hitting the pedestrian back up to the engineers who designed the vehicle, to computer vision researchers, and finally to machine learning theorists.
-  b. Students are asked to: (i) complete the causal chain, (ii) determine who, if anyone, should be held accountable (backwards-responsible) for the death, and under what circumstances, and (iii), determine whether anyone in this causal chain has forward-responsibilities (duties to make amends for the harm).
-8. Taking up & discussing the small group activity as a class (30 min)
-9. Individual end-of-class reflection and module evaluation survey (10 min)
+1. [5min] Ask students if they shared last week's written report and how it went.
+2. [5min] Course head recaps previous session 
+3. [5min] Introduction to Embedded EthiCS 
+4. [10min] The concept of moral responsibility 
+5. [10min] Distinction between backward-looking responsibility (holding accountable) and forward-looking responsibility (taking responsibility)
+5. [10min] Illustrations of complexities in attributing backward-looking responsibility and determining who has forward-looking responsibilities in complex causal chains
+7. [30min] Small group activity:
+  * Students given a case: an autonomous vehicle has hit and killed a pedestrian. They are also given an incomplete causal chain that runs from the vehicle hitting the pedestrian back up to the engineers who designed the vehicle, to computer vision researchers, and finally to machine learning theorists.
+  * Students are asked to: (i) complete the causal chain, (ii) determine who, if anyone, should be held accountable (backwards-responsible) for the death, and under what circumstances, and (iii), determine whether anyone in this causal chain has forward-responsibilities (duties to make amends for the harm).
+8. [30min] Discussing the small group activity as a class 
+9. [5min] Individual end-of-class reflection and module evaluation survey
 
 > **Insight:** One may worry that students may come away from this lesson thinking that the role they have in the development of harmful technologies doesn’t put professional ethical duties on them. The point, however, is not so much to convince them of a particular duty they have, but rather, to get them to think about the possibility that they may have such duties, and the circumstances under which they might arise. Critical reflection on moral and professional responsibility is the main goal of this module.
 {: .prompt-tip }
