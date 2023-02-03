@@ -1,5 +1,5 @@
 ---
-title: Deadline for the once-per-semester assignments
+title: Deadline for the once-per-semester assignments (Spring)
 author: [yaniv_yacoby, eura_shin]
 date: 2023-04-21 09:00:00 -0500
 tags: [skill-building, normalizing-struggle, communication, professional-development]
