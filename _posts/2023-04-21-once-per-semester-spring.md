@@ -1,5 +1,5 @@
 ---
-title: Deadline for the once-per-semester assignments (Spring)
+title: Deadline for the once-per-semester assignments (spring)
 author: [yaniv_yacoby, eura_shin]
 date: 2023-04-21 09:00:00 -0500
 tags: [skill-building, normalizing-struggle, communication, professional-development]
@@ -10,7 +10,7 @@ comments: false
 
 > **Objectives:**
 * To **lower barriers** for help seeking by ensuring students know the course staff, their advisor(s) and senior researchers in their labs to ensure they feel comfortable enough reaching out when they need help.
-* To demystify the hidden curriculum of the Ph.D. by encouraging students to explicitly **solicit feedback** from their advisors and **learn** from more senior students' experiences in the program.
+* To demystify the **hidden curriculum** of the Ph.D. by encouraging students to explicitly **solicit feedback** from their advisors and **learn** from more senior students' experiences in the program.
 {: .prompt-info }
 
 
@@ -39,20 +39,20 @@ Before you begin your evaluation, we would like to **dispel** a few **myths** yo
 2. If your advisor(s) bring(s) up areas of growth, **it does NOT mean you're doing poorly**. You're in the beginning of your Ph.D. journey, so it is expected you have a lot to learn.
 3. **Do not push this off** until you feel certain your advisor(s) is/are happy with your progress. Many of us students have tendencies to “read tea leaves” (i.e. guess from facial expressions, messages, etc.) when trying to determine if our advisor(s) are happy with us, instead of asking explicitly. You may find that even at times you aren't certain your advisor(s) is/are happy with you, they actually are. 
 
-** Instructions:** For each of the categories below, ask your advisor:
+**Instructions:** For each of the categories below, ask your advisor:
 1. What are my strengths?
 2. What are my areas of growth?
 
 Since you're a Ph.D. student just starting on their journey, there may be many areas of growth for you. 
 This is, again, not an issue, but a natural product of where you are in the process. 
-It is helpful, however, to agree with your advisor(s) on which of the above areas of growth are the highest priority for the next few weeks. 
-This will help ensure you’re not spreading yourself too thin. 
+It is helpful, however, to agree with your advisor(s) on which of the above areas of growth are the **highest priority** for the next few weeks. 
+This will help ensure you're not spreading yourself too thin. 
 As such, after discussing your strengths and areas of growth in every category below, ask your advisor(s) the following questions:
 1. Which of the areas of growth above should I focus on most in the next few weeks?
 2. What are concrete ways to improve in the above areas of growth?
 3. hen would it be helpful to check in again and re-evaluate how I'm doing?
 
-Lastly, don’t forget to thank your advisor(s) for their feedback and investment in your growth!
+Lastly, don't forget to **thank** your advisor(s) for their feedback and investment in your growth!
 
 
 ### Teamwork and interdependence
@@ -103,14 +103,13 @@ Examples of skills:
 * Participation in department or national meetings, teaching/mentoring, leadership skills
 
 
-## Guidence from More Senior Ph.D. Candidates
+## Guidence from senior Ph.D. candidates
 
 You're required to meet with a more senior Ph.D. student (G3+) from your lab at least once this semester. 
 Please prioritize folks from your lab who work on an area similar to what you're working on. 
-If you are the only person in your lab (or have other problems scheduling a time), no problem – just let us know in advance. 
-The purpose of this meeting is for you to get in the habit of soliciting advice and insights from someone who was recently in a similar position.
-Below is a list of questions for you to ask, in addition to any other questions you may have. 
-After this meeting, please answer the questions below: 
+If you are the only person in your lab (or have other problems scheduling a time), no problem -- just let us know in advance. 
+The purpose of this meeting is for you to get in the **habit** of soliciting advice and insights from someone who was recently in a similar position.
+Below is a list of questions for you to ask, in addition to any other questions you may have:
 * Qualifying Exam 
   * What were the expectations for their qualifying exam (both in terms of university requirements and advisor expectations)? 
   * How did they choose their committee? 
