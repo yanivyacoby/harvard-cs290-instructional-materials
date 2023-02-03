@@ -10,6 +10,7 @@ comments: false
 
 > **Objectives:**
 * To **lower barriers** for help seeking by ensuring students know the course staff, their advisor(s) and senior researchers in their labs to ensure they feel comfortable enough reaching out when they need help.
+* To demystify the hidden curriculum of the Ph.D. by encouraging students to explicitly **solicit feedback** from their advisors and **learn** from more senior students' experiences in the program.
 {: .prompt-info }
 
 
@@ -134,3 +135,14 @@ After this meeting, please answer the questions below:
   * What made them want to start? 
   * What did they get out of it? What did they find challenging? What did they find rewarding?
 
+
+## Go to an InTouch social
+
+[InTouch](https://intouch.seas.harvard.edu/) is a peer-to-peer support network for graduate students.
+Its goal is to create a student culture at SEAS that prioritizes student well-being by addressing the imposter phenomenon, stress, and isolation that students commonly experience over the course of their program.
+
+InTouch socials happen every two weeks at the SEC – announcements for them appear on the `gradsdirect` mailing-list and on their calendar. 
+Answer the following questions:
+* Introduce yourself to the InTouch peer mentors there running the social.
+* When did you go? Which InTouch peer organizer did you talk to?
+* What/who is InTouch for? What did you get out of the social (other than free food)?
