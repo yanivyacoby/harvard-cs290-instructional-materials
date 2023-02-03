@@ -101,3 +101,36 @@ Examples of skills:
 * Assisting and writing grant proposals
 * Participation in department or national meetings, teaching/mentoring, leadership skills
 
+
+## Guidence from More Senior Ph.D. Candidates
+
+You're required to meet with a more senior Ph.D. student (G3+) from your lab at least once this semester. 
+Please prioritize folks from your lab who work on an area similar to what you're working on. 
+If you are the only person in your lab (or have other problems scheduling a time), no problem – just let us know in advance. 
+The purpose of this meeting is for you to get in the habit of soliciting advice and insights from someone who was recently in a similar position.
+Below is a list of questions for you to ask, in addition to any other questions you may have. 
+After this meeting, please answer the questions below: 
+* Qualifying Exam 
+  * What were the expectations for their qualifying exam (both in terms of university requirements and advisor expectations)? 
+  * How did they choose their committee? 
+  * How did they prepare? 
+  * What did they take away from the experience?
+* TF Requirements
+  * How did they choose a course? 
+  * What were their TFing expectations for the course? 
+  * What did they find rewarding/challenging? 
+* Conference attendance/networking
+  * When do people in their lab typically attend conferences/workshops? (Is it only when they have something accepted? Do they get sent for other reasons?)
+  * What is it like to attend a conference? What do they do? How do they network? 
+* Research/advisor relationships
+  * How has their relationship with their advisor evolved? 
+  * How do they find interesting research problems? 
+  * How have their responsibilities evolved?
+  * Have they done an internship? If so, when did they do it? Why/what did they get out of it?
+  * Have you collaborated with anyone? How did this collaboration come about? How did you manage the collaboration?
+* Mentorship
+  * Have they mentored more junior students? If so, when did they start doing it? 
+  * How did they find students to mentor/how did it come about? 
+  * What made them want to start? 
+  * What did they get out of it? What did they find challenging? What did they find rewarding?
+
