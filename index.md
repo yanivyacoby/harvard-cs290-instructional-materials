@@ -50,7 +50,7 @@ If you do use our materials, please do reference our [student-facing course webs
 * [Yaniv Yacoby](https://yanivyacoby.github.io/)
 * [Eura Shin](https://eurashin.github.io/)
 * [John Girash](https://scholar.harvard.edu/girash/home)
-* [David Parkes](https://parkes.seas.harvard.edu/)
+* [David C. Parkes](https://parkes.seas.harvard.edu/)
 
 
 **Class Structure:**
