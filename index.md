@@ -38,7 +38,7 @@ If you do use our materials, please do reference our [student-facing course webs
 } {% endraw %}
 ```
 
-> Feel free to reach out to us if you have any questions, suggestions, or to let us know how you used these materials -- we'd love to know!**
+> Feel free to reach out to us if you have any questions, suggestions, or to let us know how you used these materials -- we'd love to know!
 {: .prompt-tip }
 
 
