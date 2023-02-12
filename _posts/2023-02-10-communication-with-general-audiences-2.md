@@ -28,9 +28,9 @@ Again, assume a **general audience** that has some (but not a lot of) familiarit
 * Plan your **narrative** as if it were a **Pixar movie or a fairytale**: *"Once upon a time there was \_\_. Every day, \_\_. One day \_\_. Because of that, \_\_. Because of that, \_\_. Until finally \_\_."*
   * If it helps your narrative, don't be afraid to walk people through your research process (including the "failures"). It can build investment by making people wonder "what will be the solution?", and it's transparent about good research!
 * Be cognizant of words that are commonplace in your field of research but that your audience (1) may not know and (2) may have a different meaning. 
-* If your talk involves math/equations: 
+* If your talk involves **math/equations**: 
   * Use math sparingly; find minimal examples of the problem that one can follow, both in terms of intuition and notation
-  * Speak in words, point to symbols
+  * Speak in words, point to corresponding symbols
 
 Please submit a PDF of your slides and answer: in what ways has your talk changed from last week to this week?
 
