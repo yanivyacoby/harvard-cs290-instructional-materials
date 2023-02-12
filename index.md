@@ -38,11 +38,11 @@ If you do use our materials, please do reference our [student-facing course webs
 } {% endraw %}
 ```
 
-> Feel free to reach out to us if you have any questions, suggestions, or to let us know how you used these materials -- we'd love to know!**
+> Feel free to reach out to us if you have any questions, suggestions, or to let us know how you used these materials -- we'd love to know!
 {: .prompt-tip }
 
 
-> The below figure (taken from [our paper](https://arxiv.org/abs/2208.12650)) motivates CS290 as an **intervention** to break **negative feedback cycles** in academic culture.
+> The below figure (taken from [our paper](https://arxiv.org/abs/2208.12650)) motivates CS290 as an **intervention** to break **undesirable feedback cycles** in academic culture.
 {: .prompt-info }
 <img src="/assets/cycle.svg" alt="The cycle of isolation"/>
 
@@ -50,7 +50,7 @@ If you do use our materials, please do reference our [student-facing course webs
 * [Yaniv Yacoby](https://yanivyacoby.github.io/)
 * [Eura Shin](https://eurashin.github.io/)
 * [John Girash](https://scholar.harvard.edu/girash/home)
-* [David Parkes](https://parkes.seas.harvard.edu/)
+* [David C. Parkes](https://parkes.seas.harvard.edu/)
 
 
 **Class Structure:**
