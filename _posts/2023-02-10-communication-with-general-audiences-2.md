@@ -40,8 +40,8 @@ Please submit a PDF of your slides and answer: in what ways has your talk change
 2. [10min] The experiences of presenting at US-based conferences as an international, non-native Engish speakers: What are the challenges? 
 3. [20min] Two examples of the same talk: one for a technical audience in the field, and one for a general audience.
 4. [10min + 10min] In small groups: what are the differences? Synthesize as a group.
-6. [45min] Practice presenting in groups of 3: 10min per presentation + 5min for feedback, repeated 3 times. For the feedback phase, ask the student who just presented to first discuss what they think went well and what could have gone better. 
-7. [10min] As a group: What was hard? What worked well? How will you improve your presentation in the future?
-8. [5min] In-class survey: What did you take away from class today?
+5. [45min] Practice presenting in groups of 3: 10min per presentation + 5min for feedback, repeated 3 times. For the feedback phase, ask the student who just presented to first discuss what they think went well and what could have gone better. 
+6. [10min] As a group: What was hard? What worked well? How will you improve your presentation in the future?
+7. [5min] In-class survey: What did you take away from class today?
 
 
