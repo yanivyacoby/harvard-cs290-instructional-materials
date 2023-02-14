@@ -1,7 +1,7 @@
 ---
 title: Power dynamics in scientific communities
 author: [mary_gray]
-date: 2023-02-17 09:00:00 -0500
+date: 2023-02-12 09:00:00 -0500
 tags: [research-in-context]
 math: false
 mermaid: false
