@@ -54,6 +54,10 @@ As such, after discussing your strengths and areas of growth in every category b
 
 Lastly, don't forget to **thank** your advisor(s) for their feedback and investment in your growth!
 
+In addition to submitting your evaluation form, please answer the following questions about your experience:
+* Have you previously asked your advisor for feedback for these general research skills, as opposed to project-specific guidance?
+* What was your experience like doing this assignment?
+* What have you learned from this experience?
 
 ### Teamwork and interdependence
 
