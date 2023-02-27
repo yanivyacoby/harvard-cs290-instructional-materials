@@ -12,7 +12,7 @@ comments: false
 * Learn about **historical links** between computing research and human rights atrocities during World War II.
 * Analyze **contemporary cases** of professional challenges confronting individual computing researchers.
 * Explore the value of **collective action** and collaboration vs **individual responses** to managing the personal and professional challenges of a career in computer science.
-* Understand that research questions are a reflection of the **values** of a research community -- that they may not necessarily be of independent value/importance. 
+* Understand that research questions are a reflection of the **values** of a research community at a **specific point in history**, and that they may therefore not necessarily be of independent value/importance. 
 {: .prompt-info }
 
 
