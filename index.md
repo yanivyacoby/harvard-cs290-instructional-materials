@@ -52,6 +52,7 @@ If you do use our materials, please do reference our [student-facing course webs
 * [John Girash](https://scholar.harvard.edu/girash/home)
 * [David C. Parkes](https://parkes.seas.harvard.edu/)
 
+In addition to the main course developers listed above, we've had individual sessions contributed by a number of scholars, especially in the spring semester. Without them, this offering of the course would not be possible.
 
 **Class Structure:**
 The course meets once a week for 120min during the fall and spring semesters.
