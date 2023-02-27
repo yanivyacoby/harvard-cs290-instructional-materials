@@ -47,9 +47,9 @@ comments: false
 
 
 **Instructions:**
-Go to the materials page of the course website. Read your assigned section. You may find it helpful to quickly skim through abstracts / titles of the listed papers.
-Create a positive feedback cycle following the below template.
-Please pay particular attention to the way the cycle reinforces societal misconceptions.
+Go to the [materials page](https://yanivyacoby.github.io/harvard-cs290/materials/) of the course website. Read your assigned section. You may find it helpful to quickly skim through abstracts / titles of the listed papers.
+For your section, come up with an undesirable feedback cycle in academic cycle following the below template.
+Please pay particular attention to the way the cycle reinforces societal misconceptions and perpetuates itself.
 Then come up with **systemic** interventions for every step of the cycle.
 
 <table style="table-layout: fixed; width: 100%">
