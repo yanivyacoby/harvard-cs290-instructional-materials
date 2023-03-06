@@ -1,0 +1,46 @@
+---
+title: Diversity Equity and Inclusion (part 1)
+author: [weiwei_pan]
+date: 2023-02-24 09:00:00 -0500
+tags: [dei]
+math: false
+mermaid: false
+comments: false
+---
+
+> **Objectives:**
+* To understand the failures of digital technology in the **broader context** of the history of (non-digital) technology.
+To break down failures into three factors -- **perception gap, data gap, and neglect of the sociotechnical system** -- leading to design blind spots in tech, and introduce an example of a design framework, **Participatory Design**, that addresses these blind spots. 
+To explore four barriers to equitable and fair participation (in Participatory Design) – **microaggressions, invisible labor, privilege hazard, and visible and invisible axes of marginalization**. 
+{: .prompt-info }
+
+
+## Pre-class work
+*  Read:
+  * [The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html)
+  * [Silent Technical Privilege](https://slate.com/technology/2014/01/programmer-privilege-as-an-asian-male-computer-science-major-everyone-gave-me-the-benefit-of-the-doubt.html)
+  * [Invisible Women: The Plough Hypothesis (Chapter 7)](https://hollis.harvard.edu/permalink/f/1lqd3jo/01HVD_ALMA512333730570003941)
+* For Silent Technical Privilege and The Secret History of Women in Coding:
+  * In what ways do these readings challenge the popular narrative of the history, norms and values of the tech industry?
+  * Can you relate any part of your readings to your personal experiences as a CS student or the experiences of those close to you (e.g. friends, family, partners)?
+  * The readings identify social/cultural factors that contribute to the stymying of diversity in tech:
+    * In *The Secret History of Women in Coding*: what are the cultural, social, and economic factors that contributed to the gender shift in coding?
+    * In *Silent Technical Privilege*: what are the cultural, social, and interpersonal factors that contribute to “silent technical privilege”?
+  * How can we address these obstacles? In particular, should the solutions be individual/personal/grassroots, or institutional?
+* For Invisible Women:
+  * This reading highlights the disparate impacts of technology (not just digital) on marginalized groups. What are themes in the ways technology can negatively and unequally impact these groups?
+  * What are common sources for these disparities (e.g. are these disparities arising from malevolent actors/systems, or are they anomalies/accidents)?
+  * Relating this reading to Silent Technical Privilege and The Secret History of Women in Coding, to what extent addressing ethical issues in data science requires one to address the issues of diversity and inclusion in tech?
+
+
+## In class \[[slides](/assets/DEI-part1.pdf)\]
+1. [10min] Socializing 
+2. [30min] Presentation on history of design failures in technology (digital and analogue)
+3. [15min] Description of Participatory Design
+4. [15min] Participatory design exercise: in small groups, students use their own lived experience to design programming for a community building events for graduate students
+5. [15min] Instead of discussing their responses to their exercise, we instead ask students to reflect on their small group dynamics and identify barriers to participation (see slides for the reflection questions)
+6. [20min] Introduce four categories of barriers to equitable and fair participation
+7. [10min] Foreshadow the need to dismantle these barriers for successful Participatory Design
+8. [5min] Complete in-class survey: What did you take away from today’s class?
+
+
