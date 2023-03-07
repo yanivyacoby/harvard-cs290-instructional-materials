@@ -22,19 +22,21 @@ To learn more about our approach to the course, please also refer to:
 If you do use our materials, please do reference our [student-facing course website](https://yanivyacoby.github.io/harvard-cs290) / these teaching materials, as well as [our paper](https://arxiv.org/abs/2208.12650):
 ```
 {% raw %}
-@inproceedings{cs290,
-  author = {{Yacoby}, Yaniv and {Girash}, John and {Parkes}, David C.},
-  title = "{Empowering First-Year Computer Science Ph.D. Students to Create a Culture that Values Community and Mental Health}",
+@inproceedings{10.1145/3545945.3569751,
+  author = {Yacoby, Yaniv and Girash, John and Parkes, David C.},
+  title = {Empowering First-Year Computer Science Ph.D. Students to Create a Culture That Values Community and Mental Health},
   year = {2023},
-  isbn = {978145039431},
+  isbn = {9781450394314},
   publisher = {Association for Computing Machinery},
   address = {New York, NY, USA},
   url = {https://doi.org/10.1145/3545945.3569751},
   doi = {10.1145/3545945.3569751},
   booktitle = {Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1},
-  keywords = {mental health in doctoral programs, social isolation in doctoral programs, self-regulation, self-efficacy, imposter phenomenon},
-  location = {Toronto, ON, Canada},
-  series = {SIGCSE 2023}  
+  pages = {694–700},
+  numpages = {7},
+  keywords = {imposter phenomenon, social isolation in doctoral programs, mental health in doctoral programs, self-regulation, self-efficacy},
+  location = {Toronto ON, Canada},
+  series = {SIGCSE 2023}
 } {% endraw %}
 ```
 
