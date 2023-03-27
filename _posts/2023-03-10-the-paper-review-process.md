@@ -31,7 +31,7 @@ comments: false
   * Complete the simplified review form (below) for the paper you chose
 
 > **Tip:** We selected three papers that have recently been accepted to decrease the chance students have already seen them. We specifically selected papers on OpenReview with different scores – high, medium, and low – and linked to the anonymized versions of them in the pre-class work. Lastly, we ensured students spread evenly across each paper. 
-{: .prompt-top }
+{: .prompt-tip }
 
 ## In class \[[slides]({{ site.baseurl }}/assets/The-Paper-Review-Process.pdf)\]
 
