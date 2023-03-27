@@ -1,5 +1,5 @@
 ---
-title: The Paper Review Process, and How to Critique a Paper
+title: The paper review process, and how to critique a paper
 author: [flavio_calmon, david_parkes]
 date: 2023-03-10 09:00:00 -0400
 tags: [normalizing-struggle, skill-building, reading]
@@ -27,7 +27,7 @@ comments: false
     * Paper 1: Tailoring Language Generation Models under Total Variation Distance ([link](https://openreview.net/references/pdf?id=aRVntLBk3H))
     * Paper 2: CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code ([link](https://openreview.net/references/pdf?id=cCMhg6zrn))
     * Paper 3: Knowledge-Consistent Dialogue Generation with Language Models and Knowledge Graphs ([link](https://openreview.net/references/pdf?id=1kBhotsBk))
-  * Complete the (simplified) review form below for the paper you chose
+  * Complete the simplified review form (below) for the paper you chose
 
 > **Tip:** We selected three papers that have recently been accepted to decrease the chance students have already seen them. We specifically selected papers on OpenReview with different scores – high, medium, and low – and linked to the anonymized versions of them in the pre-class work. Lastly, we ensured students spread evenly across each paper. 
 {: .prompt-top }
