@@ -16,6 +16,7 @@ comments: false
 
 
 ## Pre-class work
+
 * Skim:
   * [The ins and outs of reviewing](https://dtai.cs.kuleuven.be/events/ReviewingTutorial/ECMLPKDD_2019_Tutorial_on_Reviewing_FULL.pdf)
   * [How NOT to review a paper The tools and techniques of the adversarial reviewer](https://sigmodrecord.org/publications/sigmodRecord/0812/p100.open.cormode.pdf)
@@ -32,7 +33,8 @@ comments: false
 > **Tip:** We selected three papers that have recently been accepted to decrease the chance students have already seen them. We specifically selected papers on OpenReview with different scores – high, medium, and low – and linked to the anonymized versions of them in the pre-class work. Lastly, we ensured students spread evenly across each paper. 
 {: .prompt-top }
 
-## In class 
+## In class \[[slides]({{ site.baseurl }}/assets/The-Paper-Review-Process.pdf)\]
+
 1. [10min] Students socialize
 2. [30min] Overview of the review process and what makes a "good" (constructive and respectful) paper review.
 3. [20min] Break students into groups to fill out the meta-review form (below) for their assigned paper, given reviews from OpenReview. We assign each group a paper that the students did not read to simulate the experience of being an AC / meta-reviewer.
