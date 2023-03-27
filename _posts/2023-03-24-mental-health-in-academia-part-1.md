@@ -2,7 +2,7 @@
 title: Mental Health in Academia (Part 1)
 author: [olivia_fitzpatrick, daniel_coppersmith, yaniv_yacoby]
 date: 2023-03-24 09:00:00 -0500
-tags: [normalizing-struggle, skill-building]
+tags: [normalizing-struggle, skill-building, academic-culture]
 math: false
 mermaid: false
 comments: false
