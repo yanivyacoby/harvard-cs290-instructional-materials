@@ -16,12 +16,12 @@ comments: false
 
 
 ## Pre-class work
-1. Skim:
+* Skim:
   * [The ins and outs of reviewing](https://dtai.cs.kuleuven.be/events/ReviewingTutorial/ECMLPKDD_2019_Tutorial_on_Reviewing_FULL.pdf)
   * [How NOT to review a paper The tools and techniques of the adversarial reviewer](https://sigmodrecord.org/publications/sigmodRecord/0812/p100.open.cormode.pdf)
   * [Mistakes Reviewers Make](https://sites.umiacs.umd.edu/elm/2016/02/01/mistakes-reviewers-make/)
   * [Dear Area Chairs (ACs)](https://www.seas.upenn.edu/~nenkova/AreaChairsInstructions.pdf)
-2. Answer:
+* Answer:
   * From these readings, in one sentence what makes a “good” review vs. a “bad” review?
   * Select one of the following three papers and review them, as per the instructions below:
     * Paper 1: Tailoring Language Generation Models under Total Variation Distance ([link](https://openreview.net/references/pdf?id=aRVntLBk3H))
