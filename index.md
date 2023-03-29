@@ -29,7 +29,7 @@ If you do use our materials, please do reference our [student-facing course webs
   isbn = {9781450394314},
   publisher = {Association for Computing Machinery},
   address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3545945.3569751},
+  url = {https://arxiv.org/pdf/2208.12650.pdf},
   doi = {10.1145/3545945.3569751},
   booktitle = {Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1},
   pages = {694–700},
