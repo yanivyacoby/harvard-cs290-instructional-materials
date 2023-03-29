@@ -1,6 +1,6 @@
 ---
 title: Mental Health in Academia (Part 1)
-author: [olivia_fitzpatrick, daniel_coppersmith, yaniv_yacoby]
+author: [olivia_fitzpatrick, daniel_coppersmith, nathan_hollinsaid, yaniv_yacoby]
 date: 2023-03-24 09:00:00 -0500
 tags: [normalizing-struggle, skill-building, academic-culture]
 math: false
@@ -38,6 +38,6 @@ comments: false
 
 ## In class 
 
-The in-class materials are taken from, [A Single-Session Workshop to Enhance Emotional Awareness and Emotion Regulation for Graduate Students: A Pilot Study](https://www.sciencedirect.com/science/article/abs/pii/S1077722920301127?via%3Dihub).
+The in-class materials are taken from, [A Single-Session Workshop to Enhance Emotional Awareness and Emotion Regulation for Graduate Students: A Pilot Study](https://www.sciencedirect.com/science/article/abs/pii/S1077722920301127?via%3Dihub) by Emily E. Bernstein, Nicole J. LeBlanc, Kate H. Bentley, Paul J. Barreira, and Richard J. McNally.
 
 
