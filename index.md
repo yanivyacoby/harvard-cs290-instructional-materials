@@ -5,13 +5,6 @@ title: The 2022-2023 Teaching Materials for CS290
 ---
 
 
-> **Note:** This website currently only contains the materials for the fall 2022 offering of the seminar. We will update it with the spring materials by the summer of 2023. While the fall semester primarely focused on skill-building, the spring semester will focus more on:
-* Mental health in academia
-* Diversity and leadership in tech
-* Power dynamics in scientific communities and research in context
-{: .prompt-warning }
-
-
 This website contains the complete materials for Harvard's 2022-2023 offering of CS290, the **Seminar on Effective Research Practices & Academic Culture**.
 This seminar is **mandatory** for all entering Computer Science (CS) doctoral students.
 Although the seminar was designed for CS doctoral students in mind, we believe these materials can be useful to the **broader community**.
