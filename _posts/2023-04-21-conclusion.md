@@ -10,7 +10,7 @@ comments: false
 
 
 > **Objectives:** 
-* To **reflect** on the experience of the last year
+* To **reflect** on the experience of their first year of the Ph.D.
 * Encourage students to think of their role in **shaping** the culture in their cohort and department
 {: .prompt-info }
 
