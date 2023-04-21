@@ -1,5 +1,5 @@
 ---
-title: Mental health in academia (Part 1)
+title: Mental health in academia (part 1)
 author: [olivia_fitzpatrick, daniel_coppersmith, nathan_hollinsaid, yaniv_yacoby]
 date: 2023-03-24 09:00:00 -0500
 tags: [normalizing-struggle, skill-building, academic-culture, mental-health]
