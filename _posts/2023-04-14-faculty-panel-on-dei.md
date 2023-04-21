@@ -1,8 +1,8 @@
 ---
 title: Faculty panel on diversity, inclusion and belonging
 author: [paula_booke]
-date: 2023-04-07 09:00:00 -0500
-tags: [normalizing-struggle]
+date: 2023-04-14 09:00:00 -0500
+tags: [dei]
 math: false
 mermaid: false
 comments: false
@@ -23,6 +23,28 @@ comments: false
 
 None.
 
+## In class:
+
+In the first half of the session, we will define racial and gender projects,
+and begin a conversation with the faculty panelists using the below questions.
+In the second half of the session, students will engage in an exercise that allows them to think about how they navigate these projects in ways that reflect their values.
+
 
 ## Question Bank
+
+* Can you tell the story of how and when you first became aware of your race in the American Context?
+  * What, if any, emotions did that experience carry?
+  * Was it a context in which this identity was affirmed or disaffirmed?
+* Can you tell the story of how you first became aware of your gender identity?
+  * What, if any, emotions did that experience carry?
+  * Was it a context in which this identity was affirmed or disaffirmed?
+* Can you tell the story of how you first became interested in STEM?
+  * If you don’t remember the first moment, choose a pivotal one that helped positively define your interest instead. What were you doing?
+  * Put yourself back in that moment and consider how it was embodied.
+    * How would you describe your racial and gender identity at that moment?
+    * If other people were present, what was their racial and gender identity?
+    * What, if any, interaction did they have with you?
+* As you think across your career, in what ways have you seen your race and gender intersect with your identity as a scholar/researcher? 
+
+ 
 
