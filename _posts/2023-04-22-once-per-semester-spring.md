@@ -1,7 +1,7 @@
 ---
 title: Deadline for the once-per-semester assignments (spring)
 author: [yaniv_yacoby, eura_shin]
-date: 2023-04-21 09:00:00 -0500
+date: 2023-04-22 09:00:00 -0500
 tags: [skill-building, normalizing-struggle, communication, professional-development]
 math: false
 mermaid: false

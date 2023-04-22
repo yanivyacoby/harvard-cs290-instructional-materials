@@ -1,7 +1,7 @@
----
+_posts/2022-11-19-once-per-semester-fall.md---
 title: Deadline for the once-per-semester assignments (fall)
 author: [yaniv_yacoby, eura_shin]
-date: 2022-11-18 09:00:00 -0500
+date: 2022-11-19 09:00:00 -0500
 tags: [normalizing-struggle, professional-development]
 math: false
 mermaid: false
