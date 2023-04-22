@@ -19,11 +19,14 @@ comments: false
 {: .prompt-info }
 
 
-## Pre-class work:
+## Pre-class work
 
-None.
+* [What Are Racial Projects? A Sociological Approach to Race](https://www.thoughtco.com/racial-project-3026510)
+* Kandaswamy, P., 2012. Gendering racial formation. Racial formation in the twenty-first century, pp.23-43.
+* Recommended: Omi, M. and Winant, H., 2014. Racial formation in the United States. Routledge.
 
-## In class:
+
+## In class [[slides](https://docs.google.com/presentation/d/1iLyezVekfoY76znaQpVBQMcBLiLlgumS/edit?usp=sharing&ouid=113921352520656002922&rtpof=true&sd=true)]
 
 In the first half of the session, we will define racial and gender projects,
 and begin a conversation with the faculty panelists using the below questions.
