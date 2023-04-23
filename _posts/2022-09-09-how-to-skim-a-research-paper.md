@@ -12,8 +12,8 @@ comments: false
 * **Normalize struggle** inherent in developing paper-reading skills: we've all been reading for most of our lives -- why is reading research papers so difficult?
 * Promote a **growth-mindset**: this is a skill that is **learned**, not inborn.
 * Introduce idea of **self-regulated learning** (SRL): in the Ph.D. students become their own teachers, and must therefore thinking of how to develop the best "curriculum" for themselves -- one that is the least discouraging and most pedagogical. Use three stages of SRL to explore where we might fail in constructing such a curriculum.
-* Teach students how to **break-down** paper-reading into the **smaller, simpler task** of answering "guiding" questions -- see guide on [how to read a research paper](https://yanivyacoby.github.io/harvard-cs290/materials/how-to-read-a-research-paper/).
-* Debunk common **misconceptions** about paper-reading (e.g. that papers should be read linearly, like a novel) -- see guide on [how to read a research paper](https://yanivyacoby.github.io/harvard-cs290/materials/how-to-read-a-research-paper/)
+* Teach students how to **break-down** paper-reading into the **smaller, simpler task** of answering "guiding" questions -- see guide on [how to read a research paper](https://yanivyacoby.github.io/harvard-cs290/readings/how-to-read-a-research-paper/).
+* Debunk common **misconceptions** about paper-reading (e.g. that papers should be read linearly, like a novel) -- see guide on [how to read a research paper](https://yanivyacoby.github.io/harvard-cs290/readings/how-to-read-a-research-paper/)
 {: .prompt-info }
 
 
@@ -29,7 +29,7 @@ comments: false
 
 ## In class: \[[slides](https://docs.google.com/presentation/d/1ozxDCtxtJazExXUSXMoHevyGc4uW_nogVjRc1n2qxHU/edit?usp=sharing)\]
 
-> This unit generally follows the structure of our guide on [how to read a research paper](https://yanivyacoby.github.io/harvard-cs290/materials/how-to-read-a-research-paper/).
+> This unit generally follows the structure of our guide on [how to read a research paper](https://yanivyacoby.github.io/harvard-cs290/readings/how-to-read-a-research-paper/).
 {: .prompt-tip }
 
 1. [10min] Students socialize in groups and introduce themselves using the slides they made

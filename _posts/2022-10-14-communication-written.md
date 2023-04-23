@@ -12,7 +12,7 @@ comments: false
 * **Normalize struggle** inherent in developing effective communication skills
 * Promote a **growth-mindset**: this is a skill that is **learned**, not inborn.
 * Debunk **misconceptions** about what constitute "good" communication practices. 
-* Teach students how to **break-down** written communication into a **step-by-step** process -- see guide on [how to communicate about weekly progress with your collaborators](https://yanivyacoby.github.io/harvard-cs290/materials/communication-in-collaborative-environments).
+* Teach students how to **break-down** written communication into a **step-by-step** process -- see guide on [how to communicate about weekly progress with your collaborators](https://yanivyacoby.github.io/harvard-cs290/readings/communication-in-collaborative-environments).
 * To encourage students to ask for **general (non-project specific) feedback**, such as how to improve their communication practices, their paper-reading strategies, to be a more support labmate, etc.
 {: .prompt-info }
 
@@ -20,7 +20,7 @@ comments: false
 ## Pre-class work
 1. If you've given written updates before, what is your current strategy for giving written updates?
 2. What do you find most challenging about giving written updates? 
-3. Follow [this template](https://www.overleaf.com/project/63375e1f74f7768cc519b521) in preparing a written "research report", following the structure discussed in our [guide about communicating with collaborators](https://yanivyacoby.github.io/harvard-cs290/materials/communication-in-collaborative-environments).
+3. Follow [this template](https://www.overleaf.com/project/63375e1f74f7768cc519b521) in preparing a written "research report", following the structure discussed in our [guide about communicating with collaborators](https://yanivyacoby.github.io/harvard-cs290/readings/communication-in-collaborative-environments).
 
 
 ## In class 

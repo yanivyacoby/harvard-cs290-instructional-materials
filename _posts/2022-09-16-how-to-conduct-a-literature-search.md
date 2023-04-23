@@ -11,7 +11,7 @@ comments: false
 > **Objectives:**
 * **Normalize struggle** inherent in developing literature skills, especially around tasks the seem trivially easy but are in fact difficult (like googling the correct keywords)
 * Promote a **growth-mindset**: this is a skill that is **learned**, not inborn.
-* Teach students how to **break-down** the literature search into **smaller, simpler task** -- see guide on [how to conduct a literature search](https://yanivyacoby.github.io/harvard-cs290/materials/how-to-do-a-literature-search).
+* Teach students how to **break-down** the literature search into **smaller, simpler task** -- see guide on [how to conduct a literature search](https://yanivyacoby.github.io/harvard-cs290/readings/how-to-do-a-literature-search).
 {: .prompt-info }
 
 
@@ -24,7 +24,7 @@ comments: false
 
 
 ## In class \[[slides](https://docs.google.com/presentation/d/1i6_H-NZ3pDQdovg_cvTt4eS_xogvwCEV7yCilD92nxM/edit#slide=id.p)\]
-> This unit generally follows the structure of our guide on [how to conduct a literature search](https://yanivyacoby.github.io/harvard-cs290/materials/how-to-do-a-literature-search).
+> This unit generally follows the structure of our guide on [how to conduct a literature search](https://yanivyacoby.github.io/harvard-cs290/readings/how-to-do-a-literature-search).
 {: .prompt-tip }
 1. [15min] Students introduce themselves with the slides they made
 2. [15min] Introduction: recap of last class, group discussion of reading about citation biases
@@ -34,7 +34,7 @@ comments: false
     > **Insight:** (a) Citations are often used as a measure of success, problematically leading to inequities. (b) More broadly, everything we do as researchers leaves a fingerprint -- who we collaborate with, who we cite, etc.  
 3. [5min] Overview: how to do a literature search?
   * What is a literature search? What is it for? Why is it hard?
-  * Present a step-by-step guide on [how to conduct a literature search](https://yanivyacoby.github.io/harvard-cs290/materials/how-to-do-a-literature-search)
+  * Present a step-by-step guide on [how to conduct a literature search](https://yanivyacoby.github.io/harvard-cs290/readings/how-to-do-a-literature-search)
 3. [15min] Small group activity #1: find the relevant keywords for a given research prompt (see example below)
 4. [10min] Regroup: what were the keywords found? How did you know they were relevant? what was hard about this? (probably: knowing which keywords to search for, verifying a paper is relevant)
 5. [5min] Presenting a guide to conduct a literature search

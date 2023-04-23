@@ -37,7 +37,7 @@ comments: false
   * According to the speaker, what are some bad rules and good rules that we currently operate under to achieve the goals of our scientific community?
   * In groups: can you think of bad rules and good rules that we currently or could operate under to achieve the goals of our scientific community?
 3. [10min] Re-motivate the seminar (what we've covered so far) as an intervention to a systemic issue -- hidden curricula in doctoral programs. Use this as a platform to talk about the broader issue: positive feedback cycles that reinforce problematic academic cultural values.
-4. Remainder of class: each group gets assigned one section on the [course materials](https://yanivyacoby.github.io/harvard-cs290/materials/) page. From the paragraph in that section, and from skimming the abstracts of the papers, students will construct their own feedback cycles following the template below.
+4. Remainder of class: each group gets assigned one section on the [course readings](https://yanivyacoby.github.io/harvard-cs290/readings/) page. From the paragraph in that section, and from skimming the abstracts of the papers, students will construct their own feedback cycles following the template below.
 5. Re-group to discuss the students' responses
 6. [5min] Ask students to fill in-class survey:
   * What is one thing you took away from class today? 
@@ -47,7 +47,7 @@ comments: false
 
 
 **Instructions:**
-Go to the [materials page](https://yanivyacoby.github.io/harvard-cs290/materials/) of the course website. Read your assigned section. You may find it helpful to quickly skim through abstracts / titles of the listed papers.
+Go to the [readings page](https://yanivyacoby.github.io/harvard-cs290/readings/) of the course website. Read your assigned section. You may find it helpful to quickly skim through abstracts / titles of the listed papers.
 For your section, come up with an undesirable feedback cycle in academic cycle following the below template.
 Please pay particular attention to the way the cycle reinforces societal misconceptions and perpetuates itself.
 Then come up with **systemic** interventions for every step of the cycle.
