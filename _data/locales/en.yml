@@ -30,14 +30,13 @@ copyright:
   # Shown at the bottom of the post
   license:
     template: This post is licensed under :LICENSE_NAME by the author.
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    name: CC BY-NC-SA 4.0
+    link: https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1 
 
   # Displayed in the footer
   brief: Some rights reserved.
   verbose: >-
-    Except where otherwise noted, the materials on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+    Except where otherwise noted, the materials on this site are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International by Yaniv Yacoby
 
 meta: Powered by :PLATFORM with :THEME theme.
 
